@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2026-05-11T11:52:44.559749700</meta:creation-date><dc:date>2026-05-24T18:55:37.230923000</dc:date><meta:editing-duration>PT5H12M</meta:editing-duration><meta:editing-cycles>42</meta:editing-cycles><meta:generator>LibreOffice/25.8.4.2$Windows_X86_64 LibreOffice_project/290daaa01b999472f0c7a3890eb6a550fd74c6df</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="15" meta:paragraph-count="120" meta:word-count="11540" meta:character-count="59402" meta:non-whitespace-character-count="47849"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">253153</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">39028</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">20454</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">12945</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">267492</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">253153</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">39026</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">273606</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="UseTrailingEmptyLinesInLayout" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoGapAfterNoteNumber" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreHiddenCharsForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3037640</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1177698</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordUlTrailSpace" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HyphenateURLs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="AutoFirstLineIndentDisregardLineSpace" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="JustifyLinesWithShrinking" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PaintHellOverHeaderFooter" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MinRowHeightInclBorder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompGridMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoClippingWithWrapPolygon" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BalanceSpacesAndIdeographicSpaces" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ForceTopAlignmentInCellWithFloatingAnchor" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Lucida Sans1" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="NSimSun" svg:font-family="NSimSun" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:hyphenation-keep="auto" loext:hyphenation-keep-type="column" loext:hyphenation-keep-line="false" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:list-style-name="" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:font-weight="bold" style:font-name-asian="NSimSun" style:font-family-asian="NSimSun" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Header_20_and_20_Footer" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:list-style-name="" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="24pt" fo:font-weight="bold" style:font-name-asian="NSimSun" style:font-family-asian="NSimSun" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="24pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <loext:theme loext:name="Office">
+   <loext:theme-colors loext:name="LibreOffice">
+    <loext:color loext:name="dark1" loext:color="#000000"/>
+    <loext:color loext:name="light1" loext:color="#ffffff"/>
+    <loext:color loext:name="dark2" loext:color="#000000"/>
+    <loext:color loext:name="light2" loext:color="#ffffff"/>
+    <loext:color loext:name="accent1" loext:color="#18a303"/>
+    <loext:color loext:name="accent2" loext:color="#0369a3"/>
+    <loext:color loext:name="accent3" loext:color="#a33e03"/>
+    <loext:color loext:name="accent4" loext:color="#8e03a3"/>
+    <loext:color loext:name="accent5" loext:color="#c99c00"/>
+    <loext:color loext:name="accent6" loext:color="#c9211e"/>
+    <loext:color loext:name="hyperlink" loext:color="#0000ee"/>
+    <loext:color loext:name="followed-hyperlink" loext:color="#551a8b"/>
+   </loext:theme-colors>
+  </loext:theme>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Header">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00051b3b" officeooo:paragraph-rsid="001424eb"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Heading_20_4" style:master-page-name="First_20_Page">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties officeooo:rsid="000260e9" officeooo:paragraph-rsid="0011f862"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" officeooo:paragraph-rsid="0011f862" style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0011f862"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="16pt" officeooo:rsid="002a814f" officeooo:paragraph-rsid="0011f862" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" officeooo:rsid="002a814f" officeooo:paragraph-rsid="0011f862" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="002aad6a"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0013ed12"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0013ed12" officeooo:paragraph-rsid="0013ed12" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0013ed12" officeooo:paragraph-rsid="002aad6a" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0013ed12" officeooo:paragraph-rsid="001424eb" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0016d390" officeooo:paragraph-rsid="0016d390" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0017b483"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0017b483" officeooo:paragraph-rsid="0017b483" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00195722"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0017b483" officeooo:paragraph-rsid="00195722" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="001a8550"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="001b6489"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001b6489" officeooo:paragraph-rsid="001b6489" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001b6489" officeooo:paragraph-rsid="001b6489" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0023d344"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="002da380"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00261c60"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002a814f" officeooo:paragraph-rsid="00261c60" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="002e59c8"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00261c60" officeooo:paragraph-rsid="00261c60" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00272c22"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00272c22" officeooo:paragraph-rsid="0023d344" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00272c22" officeooo:paragraph-rsid="0023d344" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00272c22" officeooo:paragraph-rsid="0023d344" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="002e59c8"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0022367e" officeooo:paragraph-rsid="00272c22" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0028fca7" officeooo:paragraph-rsid="0028fca7" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0028fca7"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0028fca7" officeooo:paragraph-rsid="0028fca7" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0028fca7"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002a814f" officeooo:paragraph-rsid="002593c7" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="002593c7"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="000e789d"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="0023b326"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-family="&apos;Century Gothic&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="32pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" officeooo:rsid="001b9566" style:font-size-asian="32pt" style:font-weight-asian="normal" style:font-size-complex="32pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-family="&apos;Century Gothic&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="32pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" officeooo:rsid="0011f862" style:font-size-asian="32pt" style:font-weight-asian="normal" style:font-size-complex="32pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-family="SymbolOOEnc" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" officeooo:rsid="002a814f" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" officeooo:rsid="002aad6a" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" officeooo:rsid="002a814f" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" officeooo:rsid="001b9566" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties officeooo:rsid="002aad6a"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" officeooo:rsid="0011f862" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" officeooo:rsid="0013ed12" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0013ed12" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002aad6a" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002a814f" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001424eb" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0015d960" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0016d390" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0017b483" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00195722" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="001a8550"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001b6489" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties officeooo:rsid="001b6489"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties officeooo:rsid="002da380"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001b6489" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001d855c" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001e4504" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0023d344" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="001e55a7" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00261c60" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties officeooo:rsid="002e59c8"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0022367e" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00261c60" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00272c22" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties officeooo:rsid="00272c22"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00272c22" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00272c22" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0028fca7" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" officeooo:rsid="002e59c8"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="002e59c8" style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties officeooo:rsid="0028fca7"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="0028fca7" style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties fo:color="#ff0000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002593c7" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.499cm" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
+   </style:header-style>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="P1"><text:span text:style-name="T1">Svn $Revision: 102 $ <text:s text:c="3"/></text:span><text:span text:style-name="T2">Page</text:span><text:span text:style-name="T1"> </text:span><text:page-number text:select-page="current">15</text:page-number></text:p>
+   </style:header>
+  </style:master-page>
+  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm1" draw:style-name="dp1" style:next-style-name="Standard">
+   <style:header>
+    <text:p text:style-name="P1"><text:span text:style-name="T1">Svn $Revision: 102 $ <text:s text:c="3"/></text:span><text:span text:style-name="T2">Page</text:span><text:span text:style-name="T1"> </text:span><text:page-number text:select-page="current">1</text:page-number></text:p>
+   </style:header>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:h text:style-name="P2" text:outline-level="4">Diary of George Parsons born 1890 Esquimalt Canada<text:line-break/><text:span text:style-name="T3">191</text:span><text:span text:style-name="T4">9</text:span></text:h>
+   <text:p text:style-name="P3" loext:marker-style-name="T5">Please Note:</text:p>
+   <text:p text:style-name="P4" loext:marker-style-name="T6"><text:span text:style-name="T7"> </text:span><text:span text:style-name="T8">{} </text:span><text:span text:style-name="T6">indicates clarification</text:span></text:p>
+   <text:p text:style-name="P4" loext:marker-style-name="T6"><text:span text:style-name="T7"> </text:span><text:span text:style-name="T5">(</text:span><text:span text:style-name="T8">?</text:span><text:span text:style-name="T6">) Word added but with some doubt as difficult to read</text:span></text:p>
+   <text:p text:style-name="P4" loext:marker-style-name="T6"><text:span text:style-name="T7"> </text:span><text:span text:style-name="T8">xxxx(?) </text:span><text:span text:style-name="T6">word of approximately” letters but unclear</text:span></text:p>
+   <text:p text:style-name="P4" loext:marker-style-name="T6"><text:span text:style-name="T7"> </text:span><text:span text:style-name="T8">Axxxcxx(?) </text:span><text:span text:style-name="T6">word probable letters and approx. number of letter but unclear</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T7"> </text:span><text:span text:style-name="T9">1/pxx </text:span><text:span text:style-name="T6">indicates diary number/page</text:span></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6">January 1919 <text:tab/></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T10">I was released from Military Service on Thurs January 23 at the Crystal Palace and placed on the </text:span><text:span text:style-name="T11">Z</text:span><text:span text:style-name="T10"> reserve that is to say I am liable to be recalled. Meanwhile for 28 days the Army regards me as being on furlough &amp; continues to credit me with pay &amp; ration allowance. I was paid £2 at the Crystal Palace &amp; get three more weekly payments during the 28 days.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T10">I went straight down to Rochester from the Crystal Palace &amp; stayed there until Friday 31st Jan. The greater part of this time was spent in going through my clothes &amp; other things &amp; sorting things out generally. I packed a box of things &amp; wanted sent on to Wandsworth but did not put very much in it as I was very uncertain how long I would be there. When I saw Mr. Sutcliff at Christmas time he told me what the position was. With both D</text:span><text:span text:style-name="T11">aniells</text:span><text:span text:style-name="T10"> &amp; myself away they had had to take on another <text:s/></text:span><text:span text:style-name="T12">1/p</text:span><text:span text:style-name="T13">2 </text:span>man-Mac<text:span text:style-name="T14">k</text:span>ay. Some little time after he had been taken on he was offered another job as a permanency &amp; so go notice To induce him to remain they made his position permanent and I think increased his salary.</text:p>
+   <text:p text:style-name="P7"><text:tab/>Mr H<text:span text:style-name="T14">itch</text:span> also told me that he intended to hand over the direction of the brewery to Daniel Lyons-Machay would be second brewer &amp; I should be third. He said that they were very sorry that my interests had been sacrificed but that this was the only arrangement that could be made. He suggested that if I was anxious to obtain advancement I should come back here for a time &amp; look for another post. If I found anything better, they would offer no objection to my going.</text:p>
+   <text:p text:style-name="P7"><text:tab/>My own view was that the firm had done what was absolutely unavoidable but that I did not wish to remain as third brewer. My chief thought was to try and get a position which would enable me to name and I was very glad of Mr H<text:span text:style-name="T14">itch</text:span>&apos;s suggestion that I should return here &amp; meanwhile look for something better <text:s/><text:span text:style-name="T12">1/p</text:span><text:span text:style-name="T15">3 </text:span>It was through impossible after being out of touch with everything for four &amp; a half years to obtain another c a letter post on my ments at once.</text:p>
+   <text:p text:style-name="P8"><text:tab/>This then was ¡ my intention when I returned</text:p>
+   <text:p text:style-name="P8">Friday Jan 31st </text:p>
+   <text:p text:style-name="P8">On Friday 31 Jan I came up to town by an early train and made straight for the ¡ I saw Mr Hit<text:span text:style-name="T14">ch</text:span> and arranged to stay here on the following Tuesday. I then went out to look for rooms. It was snowing rather heavily &amp; walking slowly down Sa<text:span text:style-name="T14">ntos</text:span> road &amp; <text:span text:style-name="T14">Galveston</text:span> Rd I could see no signs of any vacant rooms. I decided to see what my old landlady Mrs Hall could do for me. I found that she had a man in the RAF billeted on her but expected him to leave in a few days. I therefore arranged with her that I should go back there &amp; take over my old rooms when he had gone. I then made my way to St Pancras, had lunch at Reggios &amp; caught the 2:10 down to Wellingborough. <text:span text:style-name="T12">1/p</text:span><text:span text:style-name="T16">4</text:span></text:p>
+   <text:p text:style-name="P9">Saturday 1 Feb.</text:p>
+   <text:p text:style-name="P10">Margorie did not go <text:span text:style-name="T14">on</text:span> to Northampton till the 10:45 train on Saturday and she was given the afternoon fee as business was slack.</text:p>
+   <text:p text:style-name="P10"><text:tab/>I went into Northampton in the afternoon with <text:span text:style-name="T14">Mrs</text:span> Edwards &amp; the three of us went to the theatre General Post quite a good show.</text:p>
+   <text:p text:style-name="P10"><text:tab/>It had been freezing in Wellingborough for some days &amp; skating had started, so as soon as I arrived I set off for my skated. <text:span text:style-name="T14">P</text:span>hil had had one or two good afternoons on the ice.</text:p>
+   <text:p text:style-name="P11"><text:soft-page-break/>Sunday 2 Feb.</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T17">We went to early service on Sunday morning &amp; to the school chapel at 11:0. Monday 3 Feb. Margorie had Monday off and we had a very pleasant day together. In the morning we walked up to the lodge where Sidney was staying. In the evening the vicar called. Margorie &amp; Kath were busy preparing for a fancy dress dance they were going to at Northam Tues 4 Feb. I came up by the 8:10 train from W&apos;pro. but found that there was a </text:span><text:span text:style-name="T18">tube</text:span><text:span text:style-name="T17"> strike in town &amp; I wanted to call at the pay office I had to walk to Regent Street from there </text:span><text:span text:style-name="T18">to Victoria</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T20">5 </text:span>Even on the Brighton I had to wait 3/4 hours for a train to Clapham Junction. I spent the afternoon going round the brewery and looking through the various books I used to keep in the brewing room. I found that I had forgotten everything about my previous work though the books brought certain things back to me. I found so many entries however which were not labelled and, most of all, I could not remember what they meant.</text:p>
+   <text:p text:style-name="P7"><text:tab/>I also had a look through the most recent copies of the brewing journals. I could find in the way of vacancies were jobs as working brewers in small concerns in Cornwall &amp; the North of England. Mackay turned out to be a man of very few words and not particularly genial though he had lapses into friendliness. I got more and more depressed as the day went on and returned through slushy dark streets at night to the none too entertaining company of the Hall family.</text:p>
+   <text:p text:style-name="P7">The future looked very blank. Had the attainment of my hopes of finding myself <text:s/><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T20">6 </text:span>Feb 19 in a comfortable <text:span text:style-name="T14">b</text:span>illet before long seemed very far from off indeed and I prayed most fervently at night for help. Wed.5 I <text:span text:style-name="T14">am awake</text:span> feeling more cheerful in the morning. looked in at the brewery before breakfast. This meal I took in Mrs. Wall&apos;s kitchen. I went all over the brewery in the morning. Clachay was abstracted but gave any information when asked. Just before I went to lunch Mr. Hutch told me that Clachay had said that he would leave at the end of the month.</text:p>
+   <text:p text:style-name="P7"><text:tab/>This came as a complete surprise to me. I did not know whether to be glad or sorry about it. It looked as if the return of Daniell myself was compelling him to a which he knew was against his interests. But we were in fact pushing him out of a post which he had every right to retain. Also I had found in a more recent journal than there I had seen the day before advertisements which made it appear that there were more suitable jobs going than I had thought and that there was <text:span text:style-name="T20"><text:s/></text:span><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T20">7 </text:span>quite a good prospect of obtaining a suitable post in the country. Such a post would be more agreeable to me than an improvement in salary in the post I was holding, situated as it was in London, for which I have never had any great regard. If Mackay was going it necessarily followed that the directors here would not look upon my own departure in the same way as they otherwise would, but would be more inclined to regard it as a breach of faith after I had been receiving part salary during my absence. These considerations were inclined to make me regret that Mackay had decided to leave. <text:tab/>On the other hand his departure would simplify things for me considerably, assuming that the firm recognised me as the second benev &amp; granted me an increase of salary even if no one else was taken on to fill my place. as third. In spite of the disadvantages of remaining in London there were great advantages as well in being able to meet so many other benev and to attend the meetings of the trade <text:s/><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T21">8 </text:span>Feb. 19 asuches. London in this way offered prospects of improving ones housing knowledge that no other place could In seemed in the end therefore that Clachan decision could not affect one otherwise than advantageously Meanwhile nothing had passed between us on the subject and Hatch had pledged me to secrecy with regard to his decision. The period however was not to remain for long when it stood for Clachan told me himself of his decision very soon after lunch. He explained that he thought there was not room or was enough for us all though I was inclined to think that this was not the full reason. In the evening I attended a meeting of the O.B.C. in spite of traffic difficulties I was greeted in a very friendly way by some of the notables there assembled. Stoulis of Walney said he thought that amalgamations &amp; the return of ex-leavers to the trade would produce a glut of leavers; but opinions generally seemed <text:s/><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T22">9</text:span></text:p>
+   <text:p text:style-name="P12">Feb. 19 </text:p>
+   <text:p text:style-name="P13"><text:soft-page-break/>much more optimistic than I had expected. There was a discussion about a letter which it was suggested should be inserted in the Barnes Journal to call attention to the recent for a use in the salaries of Operative Brewers. I came home with Mr. Hitch. Thurs I came in to work with Mackay and more Feb. 6. of the old routine was recalled to me. Mackay spoke continually of leaving it all to me as if he wanted to go at once. I did not take this seriously, but in the afternoon while when both Mr. Hitch &amp; myself were in the hearing room he reached the subject of declaring to Mr. Hitch that I was quite capable of carrying on &amp; that he wanted to go at the end of the week; this lead to a triangular discussion Mr. Hitch protested against his attitude, while I argued that although everything seemed so simple &amp; obvious to him I was entirely at sea after my 4 1/2 years absence and would be in constant need of his help &amp; unable to carry on without him. I said that Daniell would also want him when he returned for he had been away for close on 2 <text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T23">10</text:span></text:p>
+   <text:p text:style-name="P14">Feb 19 </text:p>
+   <text:p text:style-name="P15">years I would have almost forgotten everything He had however fully made up his mind that he would go but accepted the suggestion that he should hang on until Daniel returned at any rate. In the evening after Pitch had gone I returned to the subject with him and we had a long &amp; perfectly frank talk. He told me that he had given up his previous post at Bristol for the same reason &amp; that he only accepted this as a temporary post at first but that he had forced the directors hard into making his stay position permanent. He said that in spite of this he had decided at the time to leave when we came back. In the course of the talk he told me he had been at Asholls in Chatham with Dr. Asholl up to 1902, and that that gentleman was still one of his greatest friends. I explained to him what my aims had been when I returned &amp; also that pointed out that it was impossible for me to get another position until I had got in touch with things again here I urged him, should he keep to his decision, not <text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T23">11</text:span></text:p>
+   <text:p text:style-name="P16">Feb. 29</text:p>
+   <text:p text:style-name="P15">to leave the from until he had got another job properly fixed up. Friday 78 On Friday Mackay showed a determination to interfere in managing the how which was unfortunate as it differed slightly from preceding ones but I got him to help me enough to get through alright. In the evening I went over to 54 Clarendon Rd Putney to see Dickinson. The door was opened by a elderly maid who without asking my name left me in the hall &amp; went to the room at the end of the passage to inform Mrs Dickinson that a gentleman wished to see her. A very short conversation ensued in which lighting a gas somewhere was mentioned and Mrs Dickinson approached me in the dimly lit hall apologizing that she did not know who I was. I gave my name. Algy! she exclaimed causing the two children to rush from the sitting room while she dragged me in. She was most effusive in her welcome. The children at first did not recognize me but Hugh recalled that I had once come up to them when in bed attended as little John. There was a sister of Mrs Dickinson <text:s/><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T23">1</text:span><text:span text:style-name="T24">2 </text:span>staying with them. The children had of course attended a great deal which is 16 &amp; goes to King&apos;s College School Wimbledon and Cla is 12 and goes to St Pauls. Mr Dickinson as I say gave me a most heart welcome &amp; made me feel to supper. Dickinson I learnt and that week left Stansfeld for a post as head at Stroud; he had been away at Ipswich for a month with at Paul&apos;s maltings. Mrs Dickinson told me that he would want a word there but I must hope this to Dick himself. I told Mr D that I wanted to find myself in a position to marry and she said that there were a lot of jobs going I ought to be able to get £400. We will see. Sat. 8? Walked round Wimbledon common in afternoon shooting an expression pond. In evening went to Rehham to see A. Emils find she had been indoors for sometime nursing herself for bronchitis, learnt that even was near Gurndon &quot;leg&quot; having taken a poultry farm. <text:s/><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T23">1</text:span><text:span text:style-name="T24">3 </text:span>Still very cold outside temperature 22° at 8am. In afternoon walked over to see the Brouses. Arthur had been in bed all day with a cold. He came in to tea left there at 6:30. Mrs. Brous sister was there, she was leaving London the next day for Sittingbourne. The Brouses told me that Arthur had put his name down for a flat at Anerley. Of the remainder of the week there is nothing much to record except that the frost continued. The canal cut was frozen about 3&quot; thick. I went to Wellingborough for my shoes but the thaw came on Thursday &amp; spoiled things. Thursday is <text:soft-page-break/>a day to be remembered as the date of my adoption of soft collars. I found them a terrible nuisance to put on - they only keep clean a day, however they can be washed easily. On Saturday morning Dickinson rang me up &amp; asked me to go there to tea that afternoon instead of on the Sunday as they had wanted me. I went to find a children&apos;s party on. However I enjoyed the evening very much. <text:s/><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T23">1</text:span><text:span text:style-name="T24">4 </text:span>On Monday Daniell started In the afternoon I went up with him to the Annual electing of the Institute of Brewing &amp; we listened to the old gang re-electing themselves to offices patting each other on the back After tea Neville read a good paper on reconstruction problems dealing chiefly with the improvement of the public house. I have received my final statement of accounts from the pay office! The seem to have mixed my field allowance &amp; I went up to day to me about it but they told me I must write Machay tells us he is going on Friday Sat 22nd Machay left us this morning We don&apos;t know at all what he intends to do but he has hinted that he intends to go abroad I am very sorry he has gone because I feel that he has done so on my account although I told him that I would be ready to go &amp; so have him plenty to do, as soon as I had got into things a bit I went up to the Holborn with Daniell this afternoon in search of an OBC Annual Electing <text:s/><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T23">1</text:span><text:span text:style-name="T24">5 </text:span>tea. His daughter Dorothy has grown into a pretty little girl very bright &amp; talkative &amp; by no means shy. The boy Edward is very active &amp; just beginning to talk. Sunday 23 I went over to tea at the Allen. Capt Allen was &amp; the Allen were much the same. Mrs Allen had apparently left Lord Lytton at the beginning of the war. She had been working on Belgian refugee relief - later at the Admiralty (Intelligence) but had had to give up the latter finding it too onerous. Monday 24 In response to invitation from Arthur went to dinner at Brows at 7. He wanted to tell me he had arranged to get married on the 22nd of March and asked me if I would be best man, provided Leslie could not get home. I agreed. He has taken a flat - two rooms etc - at Chevely for ¡- a week. He has apparently become keen a mason since 1913 &amp; is now well advanced in the craft. He has invited me to a dinner at the Alehorn on Wed. Sayer is in the same lodge - Lodge of Preston. Tues 25 I went to see Aunt Emily &amp; took her to dozen eggs. She was very much better than when I saw her last. We had a jolly little supper. <text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T23">1</text:span><text:span text:style-name="T24">6</text:span> Met brow at the Connaught rooms at bas- and went as his guest to a dinner of his lodge. I was welcomed there as a prospective member We spent a very happy evening; they seemed a very good lot of fellows indeed. Arthur had up another guest a fellow named Almoant from his firm, he was a member of another lodge. Thurs 27 Developed plates I took at Wellingbrough in dark room in brewery Fridays 28. Moylan rang up in the morning to cry off a meeting we had arranged for tonight as he was not feeling well enough. I went along to look Mrs Dickinson up in the evening they had all been down with flu but had recovered Sat. 29 I left the brewery at 12 and had lunch early. 1 March I started on my bicycle at 1:20 for home. Cycling proved heavy work after when not used to it and conditions were not favourable in spite of the fact that it was a fine bracing afternoon. There was a persistent E wind and I had a heavy lag on behind. The roads were not at all bad at first When I got beyond Eltham however, I found the <text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T23">1</text:span><text:span text:style-name="T24">7 </text:span>at 3:20 I decided to train from there. I caught a 1919. train at 3:31 reaching Stood at 4:17 I took my bicycle straight to Clarke-Simmonds to have a new hub fitted to the back wheel in the place of the crooked old one; I also told them to fit a new back cover. Sunday I did not go out. Mother &amp; Father were very well and cheerful. Monday I caught the 7:38 from Stood which took me to Waterloo &amp; came down to the Junction. I was in the brewery at 9:50. Wed. 5 Went up to Burlington House to make enquires about entries for RA. found that Arthur had left it too late as water colours had to be in by March 28. It was a horribly wet afternoon so I got back to the brewery to tea. Went up with David Clln evening to O.S.G. meeting and was elected Secretary of London Section. Austin turned up at the brewery on Monday. He looked rather different in civilian clothes. He had tea and stayed chatting till about 7 when I walked with him to Fulham where he got a tram home. I was very pleased to see him. <text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T23">1</text:span><text:span text:style-name="T24">8 </text:span></text:p>
+   <text:p text:style-name="P17"><text:span text:style-name="T17">I have been reading my diary of from October 1913. It is surprisingly interesting now and I will revert to the way I did it then i.e. on the left notes of weather and settings of daily doings. On the right the most important of the latter in fuller form and remains about other things which interest me. As far as things which interest me are concerned. The most engrossing subject at present is the </text:span><text:soft-page-break/><text:span text:style-name="T17">Coal Commission. This was formed to enquire into the condition of things in the coal industry with a view to deciding if the recent demands of the miners for 6 hour day, 60% 30% increase in wages and nationalisation of coal mines could be granted without hurting the other industries of the country it is going very fully into the various profits that are made. It would appear that the actual miner earns about 1/3 of the eventual actual price. The Coal Commission is a subject of interest itself but of far greater interest is the effect it will have on other industrial agitation. The whole country is in a state of upheaval and not only this country but apparently every other country in Europe. The industrial classes appear to be bent on ruining themselves &amp; ruining the capital interests. Industry is so <text:s/></text:span><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T23">1</text:span><text:span text:style-name="T24">9 </text:span>big. Trade is rapidly coming to a standstill at a time when we ought to be doing our utmost to make up for the damage of the war. The papers announce that Vuhers have given notice to their employees to terminate their engagements on March 22, the date of the threatened coal strike, if the coal dispute is not settled. Yesterday American troops in London caused a not to arise after over the arrest of some Americans for gambling. A fight ensued and a mob of American soldiers marched to Bow Street police station but they were dispersed by a later charge. Several men were injured &amp; a large number of arrests made. I met Claylan Jones on Monday evening at the Artist Rifles&apos; Pub of Call in Graven Street. We went to the Popular to dinner. I did not think much of the place but we had a nice little dinner together. It was nice to meet again. It appears that instead of starting his old practice again he has gone to a form of solicitor in the city where he is getting in touch with things again. He goes down to Dorchester tomorrow with a view to taking on a practice down there. We spoke of how pleasant it would be to get up a reunion of the people from Le Tournet 10. <text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T24">20</text:span></text:p>
+   <text:p text:style-name="P17">On Tuesday <text:span text:style-name="T25">wednesday </text:span>night I sent cards to as many of the old Le <text:span text:style-name="T25">T</text:span>ouquelites as I could find the addresses of, suggesting meeting for dinner at the All<text:span text:style-name="T25">bert</text:span> Tavern on March 25 at 7 p.m., &amp; hope they take it up.</text:p>
+   <text:p text:style-name="P18">I&apos;ve received enthusiastic acceptances of this suggestion from several but was rather distressed to find that Ingall was engaged in a similar scheme. However he does not seem to mind. We had a talk over the telephone &amp; arranged to meet &amp; draw up the scheme. I will go on with the organisation of this one but intend to leave the affair to him afterwards. We look forward to having several meetings. On Tuesday evening by previous arrangement I met Ingalls &amp; Mayes at Channing X. We adjourned to a neigh- bouring tea shop where we discussed the dinner project &amp; from there to the Adolphs to see The Boy UK which I stood in the pit queue for 3/4 hour. The show was very good more amusing than musical in fact I thought the music poor &amp; John had to wait half an hour for his train we went into the Strand Coffee house. The people in there consisted chiefly of American enlisted soldiers with their girls - some of them decidedly the for drink. Evidently not the place to take a girl to 20. <text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T26">1 </text:span>Wednesday was a terrible wet day but I had to go up to town to buy wedding presents for Arthur. I went to Faudels to get 12 hours of fobs &amp; a hot water jug. I got the fobs I wanted &amp; a nice little hot water jug but had a difficult over the fobs. They only had 1/4 doz of A quality those I took. I also got an attack case then. I went on to Clapham Wells for the other 1/4 fobs &amp; had to pay twice the price but I think they were rather better finished. I looked in at Towns office but he was still away. I was however told that Ada was going on well. I went on to Aunt Emely&apos;s to tea her eye was better though not quite right. From there I went to Brown&apos;s to dinner. Ada came in with Arthur. He was rather poorly. Had been working hard at office in addition to work in connection with his marriage &amp; that afternoon had come over faint. He looked better after dinner. He &amp; Ada were very pleased with the presents. October 20 On Thursday I went to the dentist in the morning. He removed the bad accumulation of tartar from my tooth &amp; go again next week. Rasper came along in the afternoon &amp; I took her round the brewery and we had tea together. <text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T26">2 </text:span>morning Three reports were presented. one by the government representatives one by the miners one &amp; the owners The government working on the first offer &amp; reduction of the 8 hr day to 7 hours &amp; to 6 hours in July 30. An increase of wages of 20% &amp; adopt the principle that the present system of ownership must be altered. This appears to be as favourable as the miners could possibly hope for <text:soft-page-break/>but they do not appear to be satisfied. The railway men are also not yet pacified although great concessions have been given offered to them &amp; the principle of naturalisation has been accepted &amp; Mr Lloyd George. A hopeful sign I think, as far as reaching a settlement of the labour question is concerned, is that L.C. had agreed in response to pressure from the other allied representatives of the peace conference to remain in Paris &amp; not return to England to attend to the labour question Sat. 22 On Saturday I went to Brows wedding. I got to the house at 1:45. We drank his health &amp; proceed to the church St. Atholes West Newwood. Mr. &amp; Mrs. Brows Arthur Leshea myself in the car. There was a <text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T26">3 T</text:span>he had aimed at 8.5 excepted up the church &amp; her brother but a girl friend Ellis Hyacinth garther away. Her mother was present but remained in the background, though she came forward to sign the register afterwards. Arthur &amp; went straight off to Victoria. I saw Ethel Woolton with her husband but did not get a chance of talking to her. I went back with the others and Arthur picked up Mr. Hobson &amp; stayed there to tea. On Sunday I went over to see the Allens. Roma &amp; Ethel Allen had had flu but were better. The dinner on Wednesday was a great success. Austin came along to the brewery about four. &amp; also had arranged to meet Mr. Strouh to take over the OBC secretory affairs at 5 we got away at once. He went to see a friend in Victoria Street while I went into the Stag Brewery. I met him again afterwards &amp; we made our way to the Allen&apos;s farm. We found Bumow Steel attached to the bar there. We had not been there very long before others began to arrive and before 7 o&apos;clock the one end of the bar was grasped by great crowd fighting each other for the hand. It was <text:s/><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T26">4 </text:span>in accordance with their old custom Self Jupha- someone else slipped downstairs again for a rest one. Harper was persuaded to take the chair 27 sat down to dinner:-</text:p>
+   <text:p text:style-name="P18">Harper <text:tab/>Capt. Crews <text:tab/>Woods <text:tab/>Dew</text:p>
+   <text:p text:style-name="P18">Grier <text:tab/><text:tab/>Brookman <text:tab/>Stone <text:tab/><text:tab/>Gibbs</text:p>
+   <text:p text:style-name="P18">Virth <text:tab/><text:tab/>Scott <text:tab/><text:tab/>Steel <text:tab/><text:tab/>Egerton</text:p>
+   <text:p text:style-name="P18">Ingall <text:tab/><text:tab/>Butter <text:tab/><text:tab/>Selfe <text:tab/><text:tab/>Moteyard</text:p>
+   <text:p text:style-name="P18">Jupha <text:tab/><text:tab/>Leeding <text:tab/>Wheeler <text:tab/>Groom</text:p>
+   <text:p text:style-name="P18">Tuck <text:tab/><text:tab/>Bunow <text:tab/>Clayton <text:tab/>Myself</text:p>
+   <text:p text:style-name="P18">Austin <text:tab/><text:tab/>Maylan-<text:span text:style-name="T27">J</text:span>one<text:span text:style-name="T27">s<text:tab/>Bathurst</text:span></text:p>
+   <text:p text:style-name="P18">Thilhurt Foothill and Farnow dropped in later.</text:p>
+   <text:p text:style-name="P18"><text:tab/>They gave us an excellent dinner for 4/1- and everyone was very satisfied including the waiter Self &amp; Lynne started a great whisky drink after dinner. Everyone seemed to enjoy the evening immensely &amp; the were all pleased to see each other again.</text:p>
+   <text:p text:style-name="P18"><text:tab/>The mixture of Worthington Gunnen Reds &amp; Whiskies and last but not least much smoking left me with a thick head in the morning.</text:p>
+   <text:p text:style-name="P18">I went home for the weekend. It was very mild, with a keen N.W. wind and an overcastness. On Sunday morning Father &amp; I went for a walk round <text:span text:style-name="T28">Reed court and in the afternoon Mrs Smith came</text:span> <text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T26">5 </text:span>to tea in civilian clothes she was to leave Chatham the next day. Monday I had a trip to the dentist on monday morning 3rd. I was there for 3/4 hour. The did me filling Mr Hutch asked me to go into the Directors room at the end of the morning. Mr Coupland asked me if I was willing to carry on as No 2 &amp; I said I was. He then told me they had decided to give me £280 a year. I asked if they had anything further to offer &amp; he said they would certainly give me more as time went on. They were paying me at the rate of £120 which I came back a £280 since then making £53 14/ I was slightly disappointed at the offer I had expected that they would pay me £45 for the quarter (Fisorate) and I had hoped that they would make the &amp; salary £300. However, it have not done so badly. Damell is not too pleased about his position. Mr Hutch asked me afterwards if I had expected more I told him that I was quite satisfied so long as I could look forward to a certainty of a nice. He said that the had suggested £250 for me at first. I have been totally at my assets at the end of lunch <text:s/><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T26">6</text:span></text:p>
+   <text:p text:style-name="P19">Selfridge 6% Pref at par. £200</text:p>
+   <text:p text:style-name="P19">5% War Loan 1929-47 <text:tab/>550</text:p>
+   <text:p text:style-name="P19">5% &quot; &quot; <text:tab/><text:tab/>1928 <text:tab/><text:tab/>200 <text:s text:c="20"/>950.0.0</text:p>
+   <text:p text:style-name="P19"><text:soft-page-break/>Life Insurance Premium Paid (7) 75.14.4</text:p>
+   <text:p text:style-name="P19">P.O Saving Bank. Gratuity 26.10/-</text:p>
+   <text:p text:style-name="P19">own use 2.14 29.14.0</text:p>
+   <text:p text:style-name="P19">Bank Balance 38.15.14</text:p>
+   <text:p text:style-name="P19">Young Cheque 53.14.0 92.12.4</text:p>
+   <text:p text:style-name="P19">Less owing to Father 3.5.0</text:p>
+   <text:p text:style-name="P19">Cashier 15.0.0 18.5.0 <text:tab/>74.7.4</text:p>
+   <text:p text:style-name="P19">Cash <text:tab/><text:tab/><text:tab/><text:tab/><text:span text:style-name="T29">2.16.0</text:span></text:p>
+   <text:p text:style-name="P19"><text:tab/><text:tab/><text:tab/><text:tab/><text:span text:style-name="T29">£ 1132.1.8</text:span></text:p>
+   <text:p text:style-name="P20">Against this I owe the dentist for three visits and on the other hand there is a Selfridge dividend share of £6. It must be borne in mind that of the above £200 is really Father&apos;s money.</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T30">On Tuesday Danzell told me that he had just before the Directors a summary of his present expenditure to show that the scale of salaries offered by the firm was insufficient when considered with regard to the present value of money. He said he had done this because he thought it was up to him when he found that other members of the staff were disappointed </text:span><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T26">7 </text:span>On Wednesday evening I attended the Committee meeting of the London Bull of Section of the O.B.C. and the dinner which followed. We had a very meanful evening and a useful discussion. It was decided to arrange a special meeting to discuss the Brewer Society report on the Whitley recommendations. The meeting closed with a very instructive discussion on existing hours of work and wages of brewery employees Thursday On Wednesday Mr Hith gave me a very pleasant 30 April surprise by telling me that the Director had decided to increase my salary to £350 a year. I said it was more than I had expected - hoped I would be able to justify it. Friday was a bad day altogether in the first place I awake with a start at 3 min to six to find that I had not set my alarm. I was due to marshal 6. I dressed hurriedly without washing &amp; rushed down to the brewery just in time to stop Cant on his way to call Mr. Hith. On getting inside I found Sanford waiting for me. I had given the wrong lift for the farmer and when he came in early to run it down he had found it out. The next thing was that Cant had broken a thermometer. The trouble however</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T26">8 </text:span>that Holland had handed to Moore a paper which he had got most of the permanent men in the place to sign asking for a rise of wages We told Hollis about it and he said that he wanted the paper stopped if possible as he wanted to be the first to offering a rise It appears that the ordinary labourers wage is being reduced at 1/3 an hour Worrying about this I made a mistake with the days for the hearing which resulted in uneven quantities. In the evening I asked Holland for an explanation for being found talking to draymen during working hours &amp; he made no bones about the cause which he said was the demand for more wages I told him that he was doing the wrong thing in getting up an agitation instead of having the matter put forward by the department foremen, but the arrival of Ella Hollis closed the interview. I went over to see Aunt Emily and found that she had got over the trouble with her eye but was now very worried about because she had coughed up a little blood. The doctor had examined her but had made light of it &amp; said he would examine her again in a</text:p>
+   <text:p text:style-name="P22"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T24">2</text:span><text:span text:style-name="T26">9 </text:span>have for a little while; but he said that her rooms were to be cleaned on May 4th she wanted till wait till after that</text:p>
+   <text:p text:style-name="P22"><text:tab/>On Saturday I urged Holland to withdraw his petition in consequence of a notice which had put up saying that the question of wages &amp; other matters was being gone into, but he showed no inclination to do anything and a similar recommendation from Daniel met with no better success Last Wednesday morning I went into Barclays bank office &amp; saw the manager with reference to having my account transferred from Chatham; she wrote out a letter for Chatham &amp; I signed it. The next day I got a letter from Father to say that he had been to the Chatham bank they wanted me to keep the account there but not through Wa<text:span text:style-name="T28">n</text:span>dsworth. I replied that I did not favour this scheme &amp; wanted the transfer to go forward On Sat. the bank manager came over. He had heard about this and <text:soft-page-break/>wanted to know what I had done. It is rather amusing to think that they should make such a fuss about &amp; patronage. On Saturday afternoon for the sake of exercise I</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T26">30 </text:span>It was a beautiful afternoon We have had a little trouble with the men. We heard last week that a petition on the subject of wages was being drawn up by a certain <text:span text:style-name="T28">section</text:span> bed <text:span text:style-name="T28">by</text:span> one Holland, this was handed to the cellar foreman More on Friday I suggested a minimum wage of £3 amongst other things. Having seen Holland speaking to draymen on the premises I tackled him about it and he told me about the petition - but I have recorded all this above. After Daniels failure to get him to withdraw it it struck me that although he said the men would not consent it was really not the case but he had reasons of his own for not wishing them to do so accordingly I suggested to Daniel that the foremen should sound the men on the subject. He had doubts as to the value of this but spoke to close about it. The latter took it up willingly and by Monday afternoon had got nearly 30 out of about 34 to sign a statement that they were willing to leave the matter in the hands of the Directors for the time a feastnight: Holland we think must be nothing from union from which he probably gets something for</text:p>
+   <text:p text:style-name="P22"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T26">3</text:span><text:span text:style-name="T31">1 </text:span>a union. It is rather difficult to settle wages at present because a lot Government minimum wage is anticipated Wed. 9</text:p>
+   <text:p text:style-name="P22">I have been very busy for the last 24 hours getting out notices for an O.B.C. meeting to discuss the Brenner&apos;s Society report on White Carnich in the bearing industry this comes off on Monday.</text:p>
+   <text:p text:style-name="P22">Thurs. I have got into touch with Leeding about motor cycles he was coming over in a Triumph combination this afternoon which the owner want, £80 for, but he could not manage it - He is coming tomorrow instead. He says that he expects the present high prices for &amp; hard machines will drop when the new machines get onto the market. Thurs. Eve.</text:p>
+   <text:p text:style-name="P22"><text:tab/>Today I had two long letters forwarded from Dave forwarded from home dealing with recent disturbances from in Cairo. It appears that the students started the trouble with an &quot;Egypt for the Egyptians&quot; cry making demonstrations against British authority. This resulted in the lower elements rioting and looting &amp; plundering wholesale. The first letter dealt fights with the affair. Dave said that the authorities did not seem to be doing as much to quell the disturbance</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T26">3</text:span><text:span text:style-name="T32">2 </text:span>the unpleasant results of lack of authority. A second letter told of more serious results in damage to cargoes which he alluded to Bohemian Jews. which would take many years to repair. The students had got alarmed declared responsibility and appeared to be attempting reconciliation with the government whom had announced as call for volunteers was engaged as interpreters or controlling traffic on the river. This afternoon I went over to Aunt Emily&apos;s and saw her into the train for home. Sol. I had a letter from Bill enclosing a pathetic letter from Dennett describing the only employment he had been able to get - as a labourer in an engineering works. He enclosed a cheque for £1-13-6 &amp; suggested that there was might make up £5 - I sent Dennett a P.O. for the £5. Mandy. This afternoon the OSA had a meeting at Brewers Hall to discuss the Brewers Society&apos;s report on Whitley Councils, only other than of the Guild were there. The spirit of the meeting was decidedly reactionary &amp; passed a resolution that the time was not ripe for anything of the sort - a great </text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T33">33 </text:span><text:span text:style-name="T34"><text:s/></text:span>I have I the bank to wrote Father on Saturday asking what he advised me to do with it. This morning a announcement of Handley Page offering 7% Participating Preference Shares for 21/- appeared in the paper. I thought it looked a good thing, wrote him again. This letter crossed with one from him suggesting taking his or Capt. Hurts&apos; Handley Page shares. I still incline to the Handley Page idea. Tues. 15. I have had the must have to lose my Dunhill pipe. I have had it just two years. Also the main spring of my watch broke today. Wed 16. This morning I had a reply from Dad. He did not want to say anything in favour of the Handley Page scheme but neither did he want to stop me going in for what might prove to be a good thing so I went over to see the Bank Manager &amp; made the application. Thus. 17 Left the brewery at 10:45 and set out for St. Pancras. I called at Trumpets in Cannon Street on the way. Bought a pipe. Only just got to 8:1 Pm times I got on the train as it was moving out. It was full &amp; I stood most of the way. Marjorie met me at the other end much to my surprise. We walked round the 3m. park in the evening </text:p>
+   <text:p text:style-name="P23"><text:soft-page-break/><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T35">34 </text:span><text:span text:style-name="T34"><text:s/></text:span>The others went to the 3 hour venue but we walked to Earl Barton in the afternoon &amp; back through Wilby was quite hot. Sat. 19 Mayone had to go into Northampton. Phil &amp; I caught the 11:20 bus on which we were fortunate enough to get front seats after Will. It was a beautiful warm day again &amp; we had a most enjoyable ride. We went straight to Dentons where we found Mary busy. She said she might be out at 1:0. I met Mr. Balaam - her sister. Walked out to the cross which Phil had not seen before. Back to Dentons &amp; May came out to lunch. I met with Phil to get a bus to Daventry or Princeton but failed went out to Shington Parish where we had tea. Came back with Mayone on the 5:50 also with Liz &amp; half a friends. R. &amp; H had been to the theatre. Easter Sunday 20th Church at 7:0. also with May to St Barnabas at 11:0. Walked up to the lodge to tea. Much colder day. Fine but keen N.E. wind. Mondays. Walked to Little Hamden to see the Cramps back to dinner. Phil went out on horse with Barbara Head. We started tea without her. Came back to tell us that Phil had had an accident at Earl Barton. The brakco did</text:p>
+   <text:p text:style-name="P23"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T35">35 </text:span>jumped off before slowing up &amp; fell. She had her knees &amp; a bad gash in her chin. Taken into a cottage of Mr. Salman on the Square. Dr. Laird was called to put a stitch in her chin. The problem was to get her home. That went to borrow a horse to ride at for Mary&apos;s trip but fortunately, Cllr. Jung offered to go out for Phil with two sidecars which he did. She was quite cheerful when she got home but annoyed at having to abandon projected funics on merron. Mary &amp; I walked out to Earl Barton to see the woman the doctor is now home by cycle. Unfortunately, the woman was out but we saw the doctor paid her. We had walked about 16 miles that day. Tuesday May had this day off. We walked over the golf links &amp; back to Hamden. I came up 1st class by the 5:16. Treney - 8:0. Wednesday Looking back on the holiday it has been a great success except for Phil&apos;s unfortunate accident. Mayone was splendid. I went down there coldly determined that I could not get married before next year but I must confess that Mayone&apos;s charm of all&apos;s present has upset my determination. There is no doubt about it. I want to get married badly but I</text:p>
+   <text:p text:style-name="P24"/>
+   <text:p text:style-name="P23"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T34">5</text:span><text:span text:style-name="T35">6 </text:span>Thurs 24. Today I got the allotment certificate from Hardley- Page for 100 shares. I took it to the bank &amp; they un- derstood to see to the payment of the instalments. These shares are quoted on the Stock Exchange this morning for the first time at par to 6 premium so it looks alright so far. The shares have at any rate cost me no more than they are worth and promise well. Sat. 26 On Saturday I rode over to Knows at Tula Hill &amp; found Leslie still at home. I had intended to go on from there to Arthur&apos;s flat but was told he was coming over there for the evening so I talked to Mrs. Knows Hill &amp; turned up. The 2 of us were very full of there flat and asked me over for the following Tuesday. I rode back. Sunday 27. The day started fine &amp; warm but gradually got colder. It started to rain about 10:00 went on for the rest of the day. I went to St. Thomas Church in the morning. I had meant to cycle over to Ada&apos;s in the afternoon but it was too wet so I decided to train. I got down there about 4:30. Eddie let me in he looked the same but had grown. Eileen came out into the hall she had altered completely and did not remember me. Ada looked older but this was because she was very grey. She seemed quite well again.</text:p>
+   <text:p text:style-name="P23"/>
+   <text:p text:style-name="P25"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T34">5</text:span><text:span text:style-name="T35">7 </text:span>and has lost her childed freshness. Her face is fuller but she will no doubt regain her good looks as she gets older. Eileen is a delightful little creature but Ada is apparently very nervous about her still. We spent a most enjoyable musical evening. Claire plays very well and sings well too with a voice rem- arably like Addas, it has not been trained at all yet but when it is should be very beautiful. Edie sings well and seems to enjoy it immensely. Cloen can play. I stayed till nearly ten. From Ada get younger in their way in fact they are like 5 children altogether. Edie goes back to school at Sutton Valence on Friday Mayne to Weston the following week.</text:p>
+   <text:p text:style-name="P25"><text:tab/> <text:span text:style-name="T36">It h</text:span>ad been missing since five &amp; the ground was well covered when I left. I tried to get a bus at Home Hill but they were all crowded there were few running &amp; it was impossible to get a place inside. I got trained on to Victoria down by District. The walk from East Putney was through <text:soft-page-break/>deep wet moss. Mindy. The streets were very steep when I went down to the 28. baker&apos;s early. But the sun came out &amp; dried them up in the morning. Went up to the Stag in the evening </text:p>
+   <text:p text:style-name="P26"/>
+   <text:p text:style-name="P22"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T34">58 </text:span>of the meeting of the 16</text:p>
+   <text:p text:style-name="P22">Tues. 29 United Bros&apos; flat at Snakey for first time Leslie was there. It is the bottom floor of a large house consist of sitting room, bedroom kitchen the rooms are be- mendous. The furniture is very good what they have. Too good I think or at any rate too large especially table and sitting room carpet but they seem very comfortable very happy. Thursday</text:p>
+   <text:p text:style-name="P22"><text:tab/>I went up to Regent Street in the afternoon to the Pay Office. I did not go to the engine office first as I had before but I went straight to room 34 from which my last reply was issued. They took me to room 29 where a lady turned up my pay sheet. We found that I was not credited with ration allowance for my Christmas leave of £1-13-4. He told me he would &quot;take it up&quot; for me. On Sunday May 11 I went for a ride through Kingston &amp; Geddington to Bury Park. The chestnut trees were just coming into blossom. It had been a fine day there were crowds of people out there On Wed 14 I<text:span text:style-name="T19">1/</text:span> spent a very enjoyable evening</text:p>
+   <text:p text:style-name="P23"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T34">5</text:span><text:span text:style-name="T35">9 </text:span>the next meeting of the old L.G.S. Well. We settled on Thursday 29th. We made an evening of it by going to the Chinese Puzzle. I wanted to go to the because Sybil Thomdike was taking a leading part in &amp; her first big engagement in town. As a matter of fact she had most of the work to do and seemed very good to me. On the whole there was nothing strange about the show. On Sunday evening I had a look round the Southfield&apos;s neighbourhood. It is certainly very nice out that way and would be a very suitable spot to get a house or flat in. I put my name down with Ryan and Penfold at Southfield Station but they did not offer much hope. I had a glorious weekend. Saturday was fine with a SW. wind. I set out for home on my bicycle at 1:36 with a few things in other much on my back. It took things very easy at first. The route I chose was through Sechonham, Chelchert and Longfield. I got on well till I got to Longfield and them began to tire to make things worse. I went out of my way. I got home at ten o&apos;clock. </text:p>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P21"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">60 </text:span>way after Bomley and all the fruit trees in blossom. It is certainly a much better way than via Bealey, except that it is perhaps a little more hilly and the roads are a bit loose in places. I came back on Sunday night starting at 5:30. I varied the route slightly reaching Chiselhurst via Southfleet, Greenstreet Green, Darenth, a better way than the other. I got in at 9:12. On Monday went up to a meeting of the Bd. of Engineers. Carl Woolton was there. He got up at the close of a discussion on labour troubles and talked learnedly of general principles and financial experts. The chairman apparently to avoid any further mention of this most immediate, closed the meeting. On Thursday went to dinner with the Koons. The Slotahs were there &amp; we had a very pleasant evening. On Friday I was able to do a little job for Myylan Jones He waked me up in the morning and told me his fiancee had been very ill. She had been ordered to go in for gynecology by the doctor &amp; he had been trying to get someone but was not able to although he had tried all over Herndon. I said I would see what we could do &amp; found we had no house nearer to him than</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">6</text:span><text:span text:style-name="T33">1 </text:span>Starsfelds might be still delivering out there but xemed to be no connection between Starsfelds &amp; I was told that Sinal was away so I gave that I decided that the only thing to do was to send gunners from here This would entail making Maylan take 3 day pts as we only have a 41 gall tucane and damage would have to be paid for but he would get it at wholesale price of a day I told him this &amp; he agreed On Saturday Goodey packed it up &amp; we sent it off by Carter &amp; Kaleson A curious function has arisen over my claim for War gratuities on a Warrant Officers scale I wrote to the Secretary of the War Office after getting no satisfaction from the Paymaster The W.O replied that as I had restated I could not get the extra 50. Meanwhile I had heard from Holman that he had got his so I wrote again telling them this and asking for similar treatment I informed Holman he wrote in reply that after getting his extra £5 he got another letter from the War office saying they <text:soft-page-break/>could not grant it and he is now afraid that they may find out they sent it to him &amp; ask him to return it.</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">6</text:span><text:span text:style-name="T33">2 </text:span>On Saturday my landlady Mrs Hall went into with slight internal trouble which will necessitate an operation while she is away I am to get my lunch out On Tuesday I got a letter from Donn saying he expected to leave England on the 11th and arrive in England on the 20th On Thursday I met Phil a school friend they were to take the examination I took them to the Jord On Friday I left the brewery at 3:30 to catch the 4:50 at 81 I had some tea of there when I went to buy some tobacco I found I had left all my money behind. The only thing to do was to go</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T33">63 </text:span>among away someone hauled me. It was Dargersfield of the M.C.S. He lent me £1 with which I was able to buy my ticket and as he was going to St. Albans by the same train I went down with him. He had been hurt at Blenquoy in the shoulder his right arm was paralyzed. He was undergoing electrical treatment and had found much improvement from it. Mayrie met me at Wellingborough. Sat: 14 On Saturday I went round to the house of Darnell who told me he had my money safe. I had a chat with Frosho who told me the disquieting news that his salary had not been raised during the war &amp; he was still only getting £270. I went over to Bedford with Mayrie by the 10.40 &amp; we had a most enjoyable day in a punt on the river. In the afternoon it got very crowded there was no punt in sight going on so we made for the 6.10 back this did not run on Saturday so we had tea &amp; caught the 7.35. We met Ella&apos;s cousin Gussie who was driven from Manchester to stay with her father brother. She is to go on to Wellingborough next week. Sunday 15 On Sunday we went to church early at 7.30 &amp; again at 11.0. At the early service were</text:p>
+   <text:p text:style-name="P27"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T35">64 </text:span><text:span text:style-name="T38">“</text:span><text:span text:style-name="T39">My H</text:span><text:span text:style-name="T40">usband”</text:span> with much enthusiasm. We had a meal in the evening.</text:p>
+   <text:p text:style-name="P27"><text:span text:style-name="T41">I came up by the </text:span>7:<text:span text:style-name="T41">5</text:span>0 in the night we had the dinner at 10.15.</text:p>
+   <text:p text:style-name="P27">It was a most enjoyable weekend. Showers were frequent &amp; a little too hot.</text:p>
+   <text:p text:style-name="P27"/>
+   <text:p text:style-name="P27">On Saturday afternoon the first <text:span text:style-name="T41">direct trans-atlantic flight was made by Alcoch &amp; Brown</text:span></text:p>
+   <text:p text:style-name="P27"/>
+   <text:p text:style-name="P27">I arranged with <text:span text:style-name="T41">bank</text:span> to <text:span text:style-name="T41">transfer</text:span> <text:span text:style-name="T41">£</text:span>200. <text:span text:style-name="T41">War Bonds </text:span>1928 to 4% <text:span text:style-name="T41">f</text:span>und<text:span text:style-name="T41">ing</text:span> <text:span text:style-name="T41">loan </text:span>1920-91.</text:p>
+   <text:p text:style-name="P27"><text:tab/> The drought which has remained unbroken since the beginning of May with the exception of a very slight drought De<text:span text:style-name="T41">rby</text:span> <text:span text:style-name="T41">D</text:span>ay June it has a land been broken It has rained steadily all day </text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T33">65 </text:span><text:span text:style-name="T42">Peace was signed at 3:12 this afternoon. The streets showed a few flags and ther were many people out but Wandsworth did not join in for much</text:span></text:p>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P29"><text:span text:style-name="T40">Sat- Dorrie Arthur $ Michael came home on Friday. I went down to the 2-5 from Victoria. I was sorry I did not decide to cycle as the train was very crowded. The house was dark. when I reached home but I found Ada &amp; Tom in the garden. they were down for the weekend with Eileen. Dad &amp; Mother soon appeared and when Dame heard of my arrival she appeared at the bathroom window very scared. Dad, she turned down. She struck me as much altered, older, thinner, darker and most of all her voice had got much deeper. The stranger soon wore off. Arthur woke Michael up and brought him down well two good humoured in consequence. He was disappointed at not finding me in uniform.</text:span> </text:p>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P27"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T43">66 </text:span>Sunday and after my father had come home 6th July on Sunday morning I went with Tom and Ada to the to the Peace Harmony evening service in the Cathedral at which the Bishop preached On the afternoon Dome Cathedral Service I walked round Nabendo was the first occasion on which I had really met old I was very favourable impressed by no entertaining both and his sense of humour ¡ was an excellent companion all the time church is very charming, shows a lot little preparation and good order On Monday morning I came up with Ada Tom &amp; Eileen &amp; the 7:30 from St. Wood as met Gladys Hard- on the platform &amp; she came up with me on Tuesday I went to the banks &amp; gave instructions to all the Mandley boys about the vacant house being between 16/6 &amp; 18/1 also 24/00 5/6 Wanderan. Will A. the houseboys sum gettions of 500 Wm. Sam&apos;s Cathedral and 2/100 14% <text:soft-page-break/>Standing clean added at 9/10/200 5/8. War stock ¡ 9/22/32 produced 2/37/4 46 new 2/100 Hardly Page added at 16/6 2/100 Hardly Page added at 16/6 81/46.</text:p>
+   <text:p text:style-name="P27"/>
+   <text:p text:style-name="P27"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T43">67 </text:span>Monday 28. I returned last night from a week at home with Mayore. I met her at St. Pancras on Feb 15th and after leaving our luggage at Charing Cross we walked down The Mall &amp; of Whitehall to see the decoration for the Peace procession the next day. The decorations were adequate but not particularly impressive. We went down to Coldas for the night and had a splendid welcome there. They came to Bedehamian station with us the next morning. We layed for the rest of the day. On Sunday we went to church early but did nothing else of note. On Monday Mayore &amp; I rode out to All Hallows &amp; saw the Fleet off Southend. Tuesday Wednesday Thursday Friday were all depressing days &amp; cold and we had to spend most of the time at home. On Thursday we waited in the end to see home Arthur of Connaught at Rochester station. On Wednesday we had a very pleasant walk round Shane Ridgeway. On Friday we walked with Arthur &amp; Dame up to the Ashin Wood. We also had one or two enjoyable walks before lunch for... On Saturday the weather cleared a bit and we decided to take a trip to Ellastone. It turned out a splendid day.</text:p>
+   <text:p text:style-name="P31">68.</text:p>
+   <text:p text:style-name="P25"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T43">6</text:span><text:span text:style-name="T44">8 </text:span><text:s/>as it happened we pulled right up to <text:span text:style-name="T45">yalding</text:span><text:span text:style-name="T46">(?)</text:span> where we had tea</text:p>
+   <text:p text:style-name="P25">Sunday was dull again Marjorie &amp; I left after tea &amp; took her off at <text:span text:style-name="T36">S</text:span>t. <text:span text:style-name="T36">P</text:span>ansaras &amp; the 8pm train It was a disappointing week as far as weather was concerned but we had a very nice time together</text:p>
+   <text:p text:style-name="P25"><text:tab/>since coming back from the weeks holiday I have been very busy with new brews &amp; the weather has been so hot as to destroy all ones energy </text:p>
+   <text:p text:style-name="P31">69.</text:p>
+   <text:p text:style-name="P25"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T43">6</text:span><text:span text:style-name="T44">9 </text:span><text:s/>Wed. yesterday Daniel told me that he has now was out got letter 20 changed saved with the possibility of not being able to find any suitable accommodation for at least six months, the absolute of taking it in spite of its disadvantages and the <text:span text:style-name="T36">£42 </text:span>re<text:span text:style-name="T36">nt </text:span>was worth while see what he thought about it. Oh my goodness he loved it. I had the offer of a vacant flat in the tower Richmond Rd. We went round to see it. It was on the ground floor. only two rooms but is good condition rent £50 a year</text:p>
+   <text:p text:style-name="P25">We talked it over &amp; agreed that he should try &amp; take it &amp; that we should try the experiment of boarding it. It&apos;s small but should hold us there is much chance of us falling out and not may have very comfortable all any more we cannot. Has much over it &amp; it will be most the experiment if we can get it Wed</text:p>
+   <text:p text:style-name="P25"><text:tab/>On Wednesday I decided to visit Lau<text:span text:style-name="T36">ren</text:span> at her address 46 Mannington <text:span text:style-name="T36">Crescent</text:span>. <text:span text:style-name="T36">I dressed in my best and took the underground to Praed Street. <text:s/>Warrington Crescent Victorian Houses opposite 46 three</text:span></text:p>
+   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P25"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">7</text:span><text:span text:style-name="T44">0 </text:span>house had been demolished &amp; an e<text:span text:style-name="T47">nemy</text:span> <text:span text:style-name="T47">b</text:span>omb. The surrounding <text:span text:style-name="T36">property</text:span> had been badly <text:span text:style-name="T36">shaken</text:span>. <text:span text:style-name="T36">46 itself</text:span> had evidently been fully recently reconstructed. <text:span text:style-name="T36">I rang but got now answer </text:span>from half-gut no supplied a card through the door &amp; decided to take a walk rounds return on my own I heard as I had only heard that the neighbourhood embodied a triangular place which formed a human park. I also observed some temples which seemed to be about 7&apos; the time I was observing the door himself. He showed plans tours of more recent visitors. He took me into a small elegant furnished room which was ended by two men on either side of family during visits. I also observed that he had Xerxes his connection with <text:span text:style-name="T36">Linden &amp; </text:span><text:s/>Ryder but I was not convinced as to his reasons. He said that he hardly did not be enable him to be educated at all. He had to continue. <text:span text:style-name="T36">His</text:span> <text:span text:style-name="T48">ch</text:span><text:span text:style-name="T45">entele?</text:span><text:span text:style-name="T36"> </text:span><text:s/>had disappeared. the people had lost their money or the new ones houses were not of the same color. Also he was greatly out of touch with present values.</text:p>
+   <text:p text:style-name="P25"><text:tab/>He was doing nothing at present but was interested in new companies and he wanted to travel for nothing in the engineering line. </text:p>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P34"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">7</text:span><text:span text:style-name="T44">1</text:span></text:p>
+   <text:p text:style-name="P35"><text:soft-page-break/>71</text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T47">His wife Luwe</text:span><text:span text:style-name="T49">(?)</text:span><text:span text:style-name="T47"> &amp; </text:span><text:s/>his daughter were half Mpinga heanno o we went out to find them. Luise was ¡ by her parents with a French accent. She was not elegant but I was very favourably impressed. Fromme was just 16 was a tall girl and good looking but had an ugly voice. Olga&apos;s Marys was smaller very well &amp; not much an ugly voice. Both girls had crops of about their own age and hanging round them, and some women about a lot was going on between young girls &amp; attendants. We went into a little room which drove himself prepared and advanced afterwards to the altar room. The whole place is beautifully furnished. Sat. only 30 On Saturday I read down to Wellingborough. I had intended to go down by the 4.0 on Sunday night but Daniel had to arrange a visit to a dentist. I could Daniel at 6. that evening as I all used my plans to the 8.0 pm. It was however a very wet night. I had to get my laundry there also things were wrong. I could not get away as soon as I wanted so after some difficulty I got on the plane to Oslo Skandia asked for it to tell the. </text:p>
+   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P34"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">7</text:span><text:span text:style-name="T44">2</text:span></text:p>
+   <text:p text:style-name="P36">72.</text:p>
+   <text:p text:style-name="P34">troubles however did not end there for I found that I had made a bad flunder over the police and after much neuer tated seeing the officer. On Saturday I caught him at his office and had the night. I was free guest after no and managed to reach St. Francis in time to catch the 11:35 P.M. train was crowded but I made friends with the guard got a seat in his room. We were left on track the platform at Wellinghams collegans who had come to me help along had to but I caught her up outside. Sunday was a fine day and we had a good walk in the evening Monday was uneventful. We rode over to Brexworth in the afternoon Saturday was too wild for cycling so we went by foot to Ramdor returned to Higham for tea was having loud from those in the main Wellinghams was wet all day. We went to the Palace in the evening the evening Saturday was allgepine&apos;s birthday. cold bad day again. We went on the river at Wellinghams but it rained a bit Keith brought over from Northamplon. </text:p>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P21"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">73 </text:span>and rode to 9th St through in the afternoon Saturday we went west to Westford &amp; the 1040. It turned out a glorious day and we had a most enjoyable time on the river. Maggie tried fishing for the first time &amp; got on very well indeed. Sunday. We went to church at 7:30- 11:0. We had a walk in the afternoon and Woodburton had a the proper with some conversation of a private nature. On the evening another walk part. Big&apos;s mill I caught the 7:50 on Wednesday morning. a hayman was more delightful than ever. Half whose acquaintance with Stanley Coleman was now was amongst his half dozen. This amused us much an amused interest in the Brown of course. Also weel was a most enjoyable one but was named ¡ the wealthiest wealthy. While I was away Pamela had been having a ¡ home work for on Monday morning ¡ and I did not see him before he went.</text:p>
+   <text:p text:style-name="P37"/>
+   <text:p text:style-name="P37"/>
+   <text:p text:style-name="P34"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">7</text:span><text:span text:style-name="T44">4 </text:span>Wed. 10. I met Ingalls at Charing X at 6.0 We had a modest lot of grub together &amp; then to Jack O&apos;Ingalls at the New where we got excellent seats in the pit. 74 A Emily Thunderstorm, </text:p>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P34"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">7</text:span><text:span text:style-name="T44">5 </text:span>Friday 19 Sept The third all C.S. dinner. Austin came down to tea at the innery and we went up together. There was a company of 30 present and we had a very pleasant evening. On Monday 22nd I met Hubble at East Putney station at 1:30 - we went to a store in Smithfield where his furniture was. We spent the whole after- noon turning his pile over to get what we wanted and then went round to the flat to see it in. </text:p>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P34"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">7</text:span><text:span text:style-name="T44">6 </text:span>On <text:span text:style-name="T47">Friday</text:span> Sep 26 I had dinner in my d<text:span text:style-name="T47">i</text:span>ggers and <text:span text:style-name="T47">settled</text:span> <text:span text:style-name="T47">Mrs H</text:span>all. I had moved my thump to the feet the day before &amp; had arranged to check them on Friday night. Instead I hung evening pushing the nothing room through and hanging the curtain. Hubble was moving over the next day. I <text:soft-page-break/>slept alone and found the unusual amount of noise disturbing. I got my breakfast meal to the house. of general railway strike was declared &amp; brought on Friday &amp; no trains were running on Saturday. I had lunch at the Room. went to Richmond with Daniel to play hokey. and made all manner turned out but we found us with flambatead and got a game. When I got back to the flat I found Hubble very busy finishing some shelves in the kitchen. We went outside and bought a handful of mace and a some ginger roots but were too late to yesterday loaded. We both slept well and were not attached to the move During the week also Williams came in every day &amp; made a great difference to the appearance of the place. He didn&apos;t found the arrangement or very great improvement in the way we had been living before; particularly in the feeding time. It was a change to </text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P34"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">7</text:span><text:span text:style-name="T44">7</text:span></text:p>
+   <text:p text:style-name="P34">The flat was much more comfortable than either of us had imagined it would be and the furniture was most suitable. The full preparation of the government made the railway strike a failure and the men agreed to go back on what were practically the government terms. The news of the sale of Brandon to Glenn Coomans was a great blow to both of us. Hubble was of course terribly upset but it looks as if his fortune will be alright. </text:p>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P34"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">7</text:span><text:span text:style-name="T44">8 </text:span>No. 1st The attempt to make home was a failure. I was a bad day with a cold E wind ruined. Herley induced me to abandon it. I rode had comfortably enough on Sunday. </text:p>
+   <text:p text:style-name="P37"/>
+   <text:p text:style-name="P38"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T37">7</text:span><text:span text:style-name="T50">9 </text:span>On Wed 26 July I called at Taylors the home agents in Pitney and asked if they had any houses for sale with possession. They said they had No. Norey Rd. I had previously heard of this from another agent who said it had been sold but the fact of the matter was that they had really not received authority to deal in it. I asked for the legal one but it had been mislaid and they promised to me when they found it. I heard no more &amp; called again the next day. I had the house &amp; had a look over the house there me the key was out at the moment but I found two ladies looking over the house so saw what it was like. Like them I was much impressed by its dirt appearance but I found all the main features in good repair except the front gate, which was broken. I went back to Taylors and offered £600 instead of the £650 asked. They said they would put the proposition to the owner. They rang me up in the evening and told me he would take £625 but I told them that I would not alter my offer until I had had someone else to see it the follow day.</text:p>
+   <text:p text:style-name="P38"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T50">80 </text:span>and we had a good lunch round. He was quite natur- with the house staff and did not regard the obvious signs of settlement in various places at all seriously. He got on onto the same lead and said that that was alright. We then turned our attention to the drains. There was no sign of an infection, but anyway. This showed that the drains were laid before modern ideas were enforced. The importance of the point was that no proper test could be made. What&apos;s did not consider there was any reason to worry about this, though he ad mitted that if any trouble should arise all the drains would have to be ocelaid and the cow would be about also. I went next door to the lady there told me that she had bought her house &amp; had been around by Stuyson the drains more watertight. She had no infection huts. I went back to Stuyson told them about my doubts with regard to the drains and paid Stuyzel to my offer of £600. but would finally take it for £400. I got hold of both ditch after lunch and told him about it and asked if he thought the obstruction would help me find the money. He mad he thought they would</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38"><text:span text:style-name="T19">1/p</text:span><text:span text:style-name="T50">81 </text:span>that they would advance me whatever amount I wanted but nothing was said about terms. Mr. Mitch met me in Putney that afternoon and we took him over the house. He was quite satisfied with its possibilities but was alarmed when he found that the drains were not above entirely satisfactory. He also enlarged on the trouble other people had had and particularly Sammy Thorn, the collector. I interceded the latter &amp; he said he had had his drains laid because he anticipated trouble &amp; not because he had had any. He thought that if I passed a medical test I ought to be satisfied. I told <text:soft-page-break/>Taylor I would. Taylor told me on Sun mon that their client would not take less than £635 &amp; after my talk with Sammy I told them I would take it at this subject to a more test.</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38">Tuesday 18th May Purchased 44 Norway Rd completed </text:p>
+  </office:text>
+ </office:body>
+</office:document>

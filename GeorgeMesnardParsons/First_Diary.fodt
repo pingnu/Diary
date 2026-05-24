@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2012-04-12T22:18:00</meta:creation-date><dc:date>2012-04-12T22:28:00</dc:date><meta:editing-cycles>2</meta:editing-cycles><meta:editing-duration>PT4S</meta:editing-duration><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="72" meta:word-count="3682" meta:character-count="20161" meta:non-whitespace-character-count="16544"/><meta:generator>LibreOffice/7.5.6.2$Windows_X86_64 LibreOffice_project/f654817fb68d6d4600d7d2f6b647e47729f55f15</meta:generator><meta:user-defined meta:name="Operator">carl</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">40377</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21830</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">26162</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1221</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">40375</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">21828</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">488375</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">488375</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="AutoFirstLineIndentDisregardLineSpace" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HyphenateURLs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Calibri" svg:font-family="Calibri" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New1" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Lucida Sans1" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="NSimSun" svg:font-family="NSimSun" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman1" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Xerox Sans Serif Narrow" svg:font-family="&apos;Xerox Sans Serif Narrow&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Xerox Sans Serif Narrow1" svg:font-family="&apos;Xerox Sans Serif Narrow&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.353cm" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" style:vertical-align="auto"/>
+   <style:text-properties style:font-name="Calibri" fo:font-family="Calibri" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="Times New Roman1" style:font-family-asian="&apos;Times New Roman&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman1" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Normal_20_Table" style:display-name="Normal Table" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.353cm" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" style:vertical-align="auto"/>
+   <style:text-properties style:font-name="Calibri" fo:font-family="Calibri" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-name-asian="Times New Roman1" style:font-family-asian="&apos;Times New Roman&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman1" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Header_20_and_20_Footer" style:class="extra"/>
+  <style:style style:name="Default_20_Paragraph_20_Font" style:display-name="Default Paragraph Font" style:family="text"/>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="7.809cm" style:type="center"/>
+     <style:tab-stop style:position="15.63cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="7.759cm" style:type="center"/>
+     <style:tab-stop style:position="15.529cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.4cm" style:type="center"/>
+     <style:tab-stop style:position="16.81cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="7.74cm" style:type="center"/>
+     <style:tab-stop style:position="15.48cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.408cm" style:type="center"/>
+     <style:tab-stop style:position="16.819cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="9.049cm" style:type="center"/>
+     <style:tab-stop style:position="18.11cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="9.13cm" style:type="center"/>
+     <style:tab-stop style:position="18.269cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="9.16cm" style:type="center"/>
+     <style:tab-stop style:position="18.32cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+   <style:paragraph-properties fo:margin-left="15.05cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.05cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="4.999cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="4.999cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.739cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="-0.739cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.739cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.05cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Arial" fo:font-size="6pt" fo:font-weight="bold" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-name-complex="Arial1" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.05cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="4.999cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.238cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.99cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.36cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.05cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="4.999cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.739cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.99cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.36cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.238cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.36cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="5.789cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="4.279cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.309cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.99cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.63cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.778cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="2.549cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.72cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.72cm"/>
+     <style:tab-stop style:position="2.909cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="4.47cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="4.02cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="8.229cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="6.179cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.159cm" style:type="char" style:char="."/>
+     <style:tab-stop style:position="3.778cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.36cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.238cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Courier New" fo:font-size="9pt" style:font-size-asian="9pt" style:font-name-complex="Courier New1" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="1.24cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.238cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.36cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="5.789cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="4.279cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.309cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.99cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.63cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.778cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="1.159cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="-1.159cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="1.39cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="2.549cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.72cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="-1.72cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.72cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.72cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="1.189cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.72cm"/>
+     <style:tab-stop style:position="2.909cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.72cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="-0.91cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.81cm"/>
+     <style:tab-stop style:position="1.72cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="-1.159cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="4.47cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="1.39cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="2.549cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="4.02cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="8.229cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="6.179cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="1.24cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.238cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.36cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.99cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.72cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="-0.91cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.81cm"/>
+     <style:tab-stop style:position="1.72cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.81cm"/>
+     <style:tab-stop style:position="1.72cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.159cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="1.39cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="2.549cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.63cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="2.549cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.238cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.36cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="4.999cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.99cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="4.999cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="17.179cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.179cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.179cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.81cm"/>
+     <style:tab-stop style:position="1.72cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="1.159cm"/>
+     <style:tab-stop style:position="2.549cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="7.809cm" style:type="center"/>
+     <style:tab-stop style:position="15.63cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="7.759cm" style:type="center"/>
+     <style:tab-stop style:position="15.529cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.4cm" style:type="center"/>
+     <style:tab-stop style:position="16.81cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="7.74cm" style:type="center"/>
+     <style:tab-stop style:position="15.48cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.408cm" style:type="center"/>
+     <style:tab-stop style:position="16.819cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="9.049cm" style:type="center"/>
+     <style:tab-stop style:position="18.11cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="9.13cm" style:type="center"/>
+     <style:tab-stop style:position="18.269cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="0.423cm" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="9.16cm" style:type="center"/>
+     <style:tab-stop style:position="18.32cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="17.179cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.179cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.159cm" style:type="char" style:char="."/>
+     <style:tab-stop style:position="3.778cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.36cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:font-name="Xerox Sans Serif Narrow" fo:font-size="20pt" style:font-size-asian="20pt" style:font-name-complex="Xerox Sans Serif Narrow1" style:font-size-complex="20pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties style:font-name="Arial" fo:font-size="14pt" style:font-size-asian="14pt" style:font-name-complex="Arial1" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties style:font-name="Arial" fo:font-size="6pt" fo:font-weight="bold" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-name-complex="Arial1" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties style:font-name="Arial" fo:font-size="6pt" style:font-size-asian="6pt" style:font-name-complex="Arial1" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties style:font-name="Arial" fo:font-size="14pt" style:font-size-asian="14pt" style:font-name-complex="Arial1" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties style:font-name="Arial" fo:font-size="3pt" style:font-size-asian="3pt" style:font-name-complex="Arial1" style:font-size-complex="3pt"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties style:font-name="Arial" fo:font-size="13pt" style:font-size-asian="13pt" style:font-name-complex="Arial1" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties style:font-name="Arial" fo:font-size="15pt" style:font-size-asian="15pt" style:font-name-complex="Arial1" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties style:font-name="Arial" fo:font-size="7pt" style:font-size-asian="7pt" style:font-name-complex="Arial1" style:font-size-complex="7pt"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-size="10pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-size="9pt" style:font-size-asian="9pt" style:font-name-complex="Courier New1" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="10pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties style:font-name="Xerox Sans Serif Narrow" fo:font-size="20pt" style:font-size-asian="20pt" style:font-name-complex="Xerox Sans Serif Narrow1" style:font-size-complex="20pt"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties style:font-name="Xerox Sans Serif Narrow" fo:font-size="21pt" style:font-size-asian="21pt" style:font-name-complex="Xerox Sans Serif Narrow1" style:font-size-complex="21pt"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties style:text-position="sub 58%" style:font-name="Courier New" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0cm"/>
+   </style:section-properties>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.72cm" fo:margin-bottom="0.739cm" fo:margin-left="1.72cm" fo:margin-right="1.73cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.847cm" fo:margin-bottom="0.739cm" fo:margin-left="1.72cm" fo:margin-right="1.73cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.101cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0cm" style:dynamic-spacing="true"/>
+   </style:header-style>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm3">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.423cm" fo:margin-bottom="0.739cm" fo:margin-left="2.699cm" fo:margin-right="3.381cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.423cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.325cm" style:dynamic-spacing="true"/>
+   </style:header-style>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm4">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.423cm" fo:margin-bottom="0.739cm" fo:margin-left="1.109cm" fo:margin-right="3.69cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.423cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.325cm" style:dynamic-spacing="true"/>
+   </style:header-style>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm5">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.423cm" fo:margin-bottom="0.739cm" fo:margin-left="2.399cm" fo:margin-right="3.731cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.423cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.325cm" style:dynamic-spacing="true"/>
+   </style:header-style>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm6">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.423cm" fo:margin-bottom="0.739cm" fo:margin-left="2.448cm" fo:margin-right="2.341cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.423cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.325cm" style:dynamic-spacing="true"/>
+   </style:header-style>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm7">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.423cm" fo:margin-bottom="0.739cm" fo:margin-left="1.709cm" fo:margin-right="1.79cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.423cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.325cm" style:dynamic-spacing="true"/>
+   </style:header-style>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm8">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.423cm" fo:margin-bottom="0.739cm" fo:margin-left="1.6cm" fo:margin-right="1.741cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.423cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.325cm" style:dynamic-spacing="true"/>
+   </style:header-style>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm9">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.423cm" fo:margin-bottom="0.739cm" fo:margin-left="1.609cm" fo:margin-right="1.681cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.423cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.325cm" style:dynamic-spacing="true"/>
+   </style:header-style>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm1" draw:style-name="dp1" style:next-style-name="Standard"/>
+  <style:master-page style:name="Converted1" style:page-layout-name="pm2" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="P1" loext:marker-style-name="T1"><text:span text:style-name="T1"><text:tab/><text:tab/></text:span><text:span text:style-name="T2">A</text:span></text:p>
+   </style:header>
+  </style:master-page>
+  <style:master-page style:name="Converted2" style:page-layout-name="pm3" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="P2" loext:marker-style-name="T1"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T3">INTRODUCTION<text:tab/>2</text:span></text:p>
+   </style:header>
+  </style:master-page>
+  <style:master-page style:name="Converted3" style:page-layout-name="pm4" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="P3" loext:marker-style-name="T1"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T3">The Diary of George Parsons, Part One<text:tab/>3</text:span></text:p>
+   </style:header>
+  </style:master-page>
+  <style:master-page style:name="Converted4" style:page-layout-name="pm5" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="P4" loext:marker-style-name="T1"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T3">H.M.S ROSARIO June 1873<text:tab/>4</text:span></text:p>
+   </style:header>
+  </style:master-page>
+  <style:master-page style:name="Converted5" style:page-layout-name="pm6" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="P5" loext:marker-style-name="T1"><text:span text:style-name="T1"><text:tab/><text:tab/></text:span><text:span text:style-name="T4">PL</text:span></text:p>
+   </style:header>
+  </style:master-page>
+  <style:master-page style:name="Converted6" style:page-layout-name="pm7" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="P6" loext:marker-style-name="T1"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T3">AUCKLAND</text:span></text:p>
+   </style:header>
+  </style:master-page>
+  <style:master-page style:name="Converted7" style:page-layout-name="pm8" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="P7" loext:marker-style-name="T1"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T3">H.M.S.ROSARIO December 187~</text:span></text:p>
+   </style:header>
+  </style:master-page>
+  <style:master-page style:name="Converted8" style:page-layout-name="pm9" draw:style-name="dp1">
+   <style:header>
+    <text:p text:style-name="P8" loext:marker-style-name="T1"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T3">AUCKLAND</text:span></text:p>
+   </style:header>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:section text:style-name="Sect1" text:name="TextSection">
+    <text:p text:style-name="P9" loext:marker-style-name="T5"><text:span text:style-name="T5">1</text:span><text:span text:style-name="T5"/></text:p>
+    <text:p text:style-name="P12" loext:marker-style-name="T5"/>
+    <text:p text:style-name="P12" loext:marker-style-name="T5"/>
+    <text:p text:style-name="P12" loext:marker-style-name="T5"/>
+    <text:p text:style-name="P12" loext:marker-style-name="T5"/>
+    <text:p text:style-name="P12" loext:marker-style-name="T5"/>
+    <text:p text:style-name="P12" loext:marker-style-name="T5"/>
+    <text:p text:style-name="P12" loext:marker-style-name="T5"/>
+    <text:p text:style-name="P13" loext:marker-style-name="T3"><text:span text:style-name="T3">INTRODUCTION</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P18" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P18" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P43" loext:marker-style-name="T3"><text:span text:style-name="T3">George Parsons was born in 1851 at Midford Place, an alley off Tottenham Court Road. He entered the Royal Navy via Greenwich Naval College in 1872, retired with the rank of Engineer Captain, and died in Rochester in 1933. His forebears had been carpenters and cabinet makers in Bath during the 18th century but his grandfather came to London with his young family around 1830. George’s father, Richard (1818-84), was trained as an engineer in Woolwich Dockyard and married Jane Crawford, the daughter of a Scottish shipwright, at Chariton in 1842. The couple had 5 children during the next 6 years but Richard Parsons’ advanced religious and political views did not render him acceptable to employers and this helps to account for the squalid circumstances of George’s birth. (There were 36 people living in the house at the time.) The family, now 7 in number, returned to Woolwiich where 3 more children were born but 2 of these died in infancy. By 1861, Richard Parsons had departed for India from where he sent money home occasionally, when the rate of exchange was in favour, leaving Sarah to manage as well as she could with the help of her Crawford relatives.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P23" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P43" loext:marker-style-name="T14"><text:span text:style-name="T3">The children had a good education at the hands of a Mr Stevenson. George’s elder brother, John (1843-67), also trained as an engineer but was rejected by the Royal Navy on medical grounds. He joined the Peruvian Navy in 1866 and died in mysterious circumstances in South America the following year. George’s younger brother, Richard, first helped his mother to run a tobacconist’s shop but was later employed as an accountant by the South Eastern Railway Company. George’s sisters, Emma, Sarah, and Jane. all became schoolteachers but married respectively a naval officer, a carpenter, and a chemist, well before the diary commences. The whole family maintained a lively correspondence, some of which survives. George remained single until 1882). he married Fanny Mesnard,a lady of Huguenot extraction, who, with her elder sister and younger brother, ran a bookshop and Post Office in Bexley </text:span><text:span text:style-name="T14">Heath</text:span></text:p>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section1">
+    <text:p text:style-name="P65" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section2">
+    <text:p text:style-name="P72" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P72" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P72" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P72" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P72" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section3">
+    <text:p text:style-name="P66" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section4">
+    <text:p text:style-name="P66" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section5">
+    <text:p text:style-name="P73" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P73" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P73" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">and Post Office in. Bexley Heath.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
+    <text:p text:style-name="P43" loext:marker-style-name="T3"><text:span text:style-name="T3">Virtually the whole of George’s career was in the Far East, where Fanny was to accompany him as often as possible. When the diary opens, George was an impressionable young bachelor based on Sidney. Individual states of Australia and New Zealand had a considerable degree of self government at that time but the island territories were at a critical stage of their development. Fiji, for example, was finally ceded to a somewhat reluctant Britain in 1874. Their King, Thakombau, originally an enthusiastic cannibal, converted to Christianiy in 1854, was nearly 80 when the diary commences, and was to live until 1883. The Royal Navy helped to maintain law and order, to prevent exploitation of the inhabitants of the islands, and to chart the ocean between them.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P23" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P43" loext:marker-style-name="T3"><text:span text:style-name="T3">For this purpose, the resources available might appear slender by modern standards. </text:span><text:span text:style-name="T1">HMS </text:span><text:span text:style-name="T3">Rosario was a wooden sloop of 673 tons (old measurement) and had a compliment of 145 officers and men. From a distance it might appear to be simply a 3 masted sailing vessel. However, closer examination would disclose a funnel and an armament of 3 revolving guns (a 61/2 ton Woolwich gun amidships and two 42 pounder Armstrong guns, one forward and one aft). The entry in the Navy List reads</text:span></text:p>
+    <text:p text:style-name="P23" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Rosario S.Sloop</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">913 (673) tons 436 (150) H.P.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P14" loext:marker-style-name="T3"><text:span text:style-name="T3">Chatham.</text:span><text:span text:style-name="T3"/></text:p>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section6">
+    <text:p text:style-name="P76" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section7">
+    <text:p text:style-name="P74" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section8">
+    <text:p text:style-name="P74" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P74" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P14" loext:marker-style-name="T3"><text:span text:style-name="T3">THE CRUISE OF THE ROSARIO 1873-5</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">Entered the Navy on Friday 13th September 1872, and was employed in various harbour duties up till may 31st 1873 when I was</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">transerred to Duke of Wellington to do duty in gunboat Earnest. On Saturday morning June 6th I saw in that day’s Hampshire Telegraph that I was appointed to Clio, Australia, and after running about all day and coming into contact with various persons on board the Duke, got my appointment in the Duke’s Office. Was very much afraid I should have to take passage in H.M.S. Pearl which was expected to leave Spithead early on Monday, in which case I should have gone without any uniform hardly as I had not made up my outfit. Went on board Asia on Monday morning 8th June, to wait passage and went on board daily until Sunday 14th. On 13th June received orders to take passage in ship Hampshire and all the Monday, Tuesday, Wednesday, &amp; Thursday following I was engaged preparing to depart.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P45" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Friday June 20th.<text:tab/>Left Portsmouth taking Nellie &amp; Mother with me to Emma’s at Bexley. Had an hour in London between trains and walked onto London Bridge. Arrived at Emma’s about</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P25" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P11" loext:marker-style-name="T3"><text:span text:style-name="T3">5.<text:tab/>All Well.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P20" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P46" loext:marker-style-name="T3"><text:span text:style-name="T3">June 21st.<text:tab/>Went to Woolwich at 9 a.m. Saw friends and at midday saw the Shah of Persia drive on to Woolwich Common. A dark, despotic looking, man. Went via London to Luton to see Sallie at Mrs Gadsden’s. Mrs G. an amiable, but weak unbusiness like woman. A widow, anxious to get married, and to preserve her youth. Went back to Bexley, Dick meeting me at London and leaving me at New Cross. Nellie, Mother, &amp; Emma meeting me at Bexley and walking home through the fileds with me.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P26" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P47" loext:marker-style-name="T3"><text:span text:style-name="T3">June 22nd. Sunday.<text:tab/>Attended Church in the morning. The clergyman, a dispiriting looking man, read a charity sermon, and looked very much hurt when Nellie and I (we were right under his nose) refused to give towards his New Church, which I considered was not required. Walked to Erith Station in</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P27" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">the evening, walking back with Nellie. My last night in England,</text:span><text:span text:style-name="T3"/></text:p>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section9">
+    <text:p text:style-name="P66" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section10">
+    <text:p text:style-name="P66" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section11">
+    <text:p text:style-name="P73" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P73" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P73" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">a memorable walk for us.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P48" loext:marker-style-name="T3"><text:span text:style-name="T3">23rd.<text:tab/>Left for Gravesend at 9.33 from Erith, and went on board the Hampshire at 11. Very good cabins and saloon but cabin not fitted up with anything except bunk &amp; wash place. Nellie and Mother came off about 1.30 and stopped an hour and I said the last goodbye in the boat alongside. Left our buoy directly afterwards and towed down the river, Emma, Mother, &amp; Nellie waving till the last from Gravesend pier. Did not feel lonely as I expected to have done, looked forward to my coming back as a matter of course without realising the time that must elapse. Sat on the poop singing until 12 when I turned in.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P28" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P49" loext:marker-style-name="T3"><text:span text:style-name="T3">24th.<text:tab/>Boat alongside belonging to Hastings. Our tug still towing us. 7 a.m. Sent letters by boat, which I had partly written overnight. Gave the man id to take them but as he wanted half a crown he did not get my letters. Tug cast us off at 8 and we made sail on the port tack. 1 p.m. Aboard ship. Feel a little inclined to be queer but all smooth as yet. Sat down to dinner 3.30 but was forced to retire. Retching up till 12 o’clock.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P29" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">25th. Cot a little sleep, waking up occasionally to retch. In my bunk almost all day until evening when I felt better. Ate nothing.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P48" loext:marker-style-name="T3"><text:span text:style-name="T3">26th.<text:tab/>After passing a good night, woke up and thought I was at home. Passed the day on deck up till 4 o’clock when I went below and lay down. At 12 a.m. full in view of Cape La Hogue &amp; Alderney. 7 p.m. do. Devonshire coast. Shall be in Plymouth soon after daybreak. Wondering if they are thinking of me at Bexley and what has transpired there since I left. Leave off this now to write letters. 9 p.m.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P28" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P48" loext:marker-style-name="T3"><text:span text:style-name="T3">27th.<text:tab/>Went on deck at 8.30. Of f the Start. Lighthouse on the hill at the extreme point. Steep coast, hills partly wooded and partly showing out the red earth of which they are composed. Anchored in Plymouth sound at 3.30. Went on shore at 5.30 and up to Saltash. Came on board again at 11.45. 28th. H.M. ships in harbour dressed in honour of her coronation day. Nothing to do all day, not knowing when we</text:span><text:span text:style-name="T3"/></text:p>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section12">
+    <text:p text:style-name="P67" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P15" loext:marker-style-name="T14"><text:span text:style-name="T14">NEW ZEALAND</text:span><text:span text:style-name="T14"/></text:p>
+    <text:p text:style-name="P42" loext:marker-style-name="T14"/>
+    <text:p text:style-name="P42" loext:marker-style-name="T14"/>
+    <text:p text:style-name="P43" loext:marker-style-name="T3"><text:span text:style-name="T3">After a quiet and busy month we left Sydney on 1st December for N.Z., our first port of call being Auckland. We are to be back in Sydney by 14th February and then, having stayed some days in Sydney to discharge stores, the ship will proceed to Adelaide where her crew will leave her, going in a coasting steamer to Melbourne to join the “Durham”, a steamer, for passage to England. I shall join the “Pearl” in Sydney I expect.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P23" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">2nd., 3rd. Sea-sick but not violently so only wretchedly.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P50" loext:marker-style-name="T3"><text:span text:style-name="T3">4th-l4th.<text:tab/>On the way. Good running for the last 2 days. On Monday (14th) forenoon lost the wind suddenly and steamed the rest of the way partly against a head wind, getting to our anchorage at 7 p.m. All day we had been between bold land on both sides of us, the left hand shore several miles distant at first but gradually closing upon us until we are proceeding up a broad river, as it were, some 3 miles broad, the shores being brown hills like the Sussex downs in colour but more irregular in outline. We are steaming straight to Auckland but nothing of that town is visible, only a point of land ending in a large low round hill, but going on we round this bluff and there, right before us, is Auckland, about 2 miles distant, on the left hand shore, the afore mentioned bluff being on our right. Then up we go to the town, a very pretty suburb on our left consisting of bright pretty villas, interspersed with trees and every house shewing, on account of the hilly ground they are built upon, the whole topped by an irregular ridge on which, among the other buildings, rises a spire or two, or three. The town itself was separated from this suburb by a long hill running inland from the shore. It is built on the slope of this hill and up a similar one forming the other side of the valley down the bottom of </text:span><text:soft-page-break/><text:span text:style-name="T3">which [is] Queen Street. The heart of the town runs where formerly a stream came down.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P30" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">15th. Aboard all day.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">16th. Ashore. Strolled up Queen Street. Merchants&apos; offices a€ the lower end. Then moderately good shops interspersed with a new stone built bank or two. The shops and other houses</text:span><text:span text:style-name="T3"/></text:p>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section13">
+    <text:p text:style-name="P67" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section14">
+    <text:p text:style-name="P75" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P75" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P75" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P75" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P75" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P16" loext:marker-style-name="T3"><text:span text:style-name="T3">H.M.S ROSARIO December 187</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P21" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P21" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">are nearly all built of wood. Having topped Queen Street, I could see nearly all over the town which stretched away on my left hand some little distance. I then set off for a large hill at the back of the town, through a cemetary and on till I came to the hill, a huge conical awfully steep mount known as Mount Eden. I got up this in two or three spells and from it I had a glorious view. All round me the country was visible for miles. The town and harbour one way, and the country and another harbour the other, for New Zealand is only 5 miles broad at his point. Away in one direction I could see a similar hill to the one I was on and I could see it was a crater, the lip being towards me. I then for the first time found that I was standing on the edge of a deep conical hollow, at the bottom of which a cow that was grazing there looked the size of an ordinary donkey. It was a perfect crater, the sides steep enough to make a fall down them very undesirable as I doubt if one could stop one’s self.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P51" loext:marker-style-name="T3"><text:span text:style-name="T3">Came down into the town again and stepped into a sale of second hand books, lately arrived from England, which struck me as being a peculiar import, and it is quite an established one.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P51" loext:marker-style-name="T3"><text:span text:style-name="T3">I saw a few Maoris walking about, including two women who were smoking. Men and women both were tattooed round the mouth and dressed in the ‘garb of civilization’.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P51" loext:marker-style-name="T3"><text:span text:style-name="T3">The climate here is very much like that of England, the temperature about the same but not quite so low, the weather very uncertain.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">17th. On board.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">18th. Ashore in the evening. Nearly all shops shut. Strolled about Auckland, the chief thing that struck me being the</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">large number of churches, each one with school attached.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">19th. Went ashore at 10 a.m. Bought Carlisle’s Hero Worship. Then started for Onchunga, a small town on the western shore</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">on the Harbour of Manakau. A glorious day it was, it had been wet for some days past but cleared up the day before, the sun was shining hotly, the whole country </text:span><text:span text:style-name="T6">was </text:span><text:span text:style-name="T3">bright and</text:span></text:p>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section15">
+    <text:p text:style-name="P66" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">H.M.S ROSARIO December 187~</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P22" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P22" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P52" loext:marker-style-name="T3"><text:span text:style-name="T3">since then h~s been goodness knows what, sailor, digger (California), stock farmer, N.Z. island trader, speculator in mines, and is now a wharf inger, I suppose one might call him. He owns a lot of horses and drays, and loads and unloads cargoes, storing any imports or exports that have to wait. He completely woke me up, I was myself again and, by comparing myself yesterday with what I have been ever since I have been on board the ‘Rosario’, I can see how different I am to what I used to be among the students and coming out in the ‘Hampshire’. I have never made a joke since I left the latter ship hardly, and though I have passed some pleasant days, have never had a jocular one. Yesterday however I laughed far more than I have done any one day of my life, and that not because I was in high spirits only but because there was something to laugh at. I am forgetting mine host however. We got out there about 1, 4 of us, and I was introduced to Mrs Cruikshank, a nice young lady in black, Mr C. I had seen once before. A little pleasant talk, and inspecting some views and sketches of St Andrews, Scotland, passed rather more than an hour and then we had a pleasant dinner beautifully served. A stroll among the flower beds, and lounging and chatting in the verandah passed another 2 hours and then we started for a drive round the country and so to Auckland. I got a hearty invitation from Mr and Mrs C. to visit them when I come to Auckland again and then we were with bachelor Bill again./(In driving we happened</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P53" loext:marker-style-name="T3"><text:span text:style-name="T3">to come across a man pr~çicing for a trotting match which is causing immense excitement in a certain, very large, section of Auckland for a more horsey place does not exist, I should imagine. I learned all about it; how difficult it is to ride a horse at his best trot, and not let him ‘break’, i.e. go into a canter (in which case he has to be pulled up and started again at the trot while his opponent is trotting along all the time); how it takes a great deal of training to make a horse of any spirit keep to the trot with another horse alongside him; how it is necessary for the rider to be a man of strength -and </text:span><text:span text:style-name="T8">- </text:span><text:span text:style-name="T3">endura~oe, </text:span><text:span text:style-name="T13">as he </text:span><text:soft-page-break/><text:span text:style-name="T13">has~ to­hel-d hiG hornon hard in and bo ~joltod frightfully fof’ </text:span><text:span text:style-name="T3">-abotv~.</text:span></text:p>
+    <text:p text:style-name="P89" loext:marker-style-name="T20"><text:span text:style-name="T20">ckh</text:span><text:span text:style-name="T20"/></text:p>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section16">
+    <text:p text:style-name="P77" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section17">
+    <text:p text:style-name="P78" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section18">
+    <text:p text:style-name="P78" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P78" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P78" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P55" loext:marker-style-name="T3"><text:span text:style-name="T3">A<text:tab/>was bright and beautiful. The r~d took me past Mt Eden and afterwards past a similar hill called One Tree Hill. There are many of these hills around and many of them are terraced. This was done by the natives, for this part of the country was thickly inhabited by Maoris, and these hills were used by them as pahs or forts.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P33" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P56" loext:marker-style-name="T3"><text:span text:style-name="T3">My walk was a beautiful one in itself but it was specially enjoyable because the place was so English. The houses were dotted down at frequent intervals and, except that they were built of wood, were in themselves and their surroundings, thoroughly English.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P55" loext:marker-style-name="T3"><text:span text:style-name="T9">~?<text:tab/></text:span><text:span text:style-name="T3">The country was often visible for miles on either hand and everywhere were detached houses, always with a wealth of colour surrounding them from their luxuriant flowers. The people that have settled down here have stocked the country with the familiar birds of the old country, have brought out the hawthorn hedges and many of the trees, and have surrounded themselves with such a wealth of the flowers of the old land as quite to brighten up the landscape. It is early summer now and, as the winter is not a severe one, everything is well forward. Owing to the winter not being very severe, everything flourishes wonderfully. Geraniums, for instance, grow into great bushes six feet high or more. The birds too hatch two or even more times a year so that in a comparatively</text:span></text:p>
+    <text:p text:style-name="P33" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P55" loext:marker-style-name="T3"><text:span text:style-name="T10">x<text:tab/></text:span><text:span text:style-name="T3">few years all birds have become plentiful; sparrows have become a nuisance. The other day on Mt Eden a skylark rose almost at my feet and fluttered aloft warbling.</text:span></text:p>
+    <text:p text:style-name="P33" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P57" loext:marker-style-name="T3"><text:span text:style-name="T16">C<text:tab/></text:span><text:span text:style-name="T3">Arrived at On~hunga. I found it a rambling place, straggling disjointedly along the road and about it. A line of steamers runs from here down to the W. coast to Wellington, through Cook’s Straights to Christchurch, thus connecting Auckland with the other parts of New Zealand. A railway now connects Onchunga with Auckland. On the bar at the mouth of this Manikau harbour, H.M.S. Orpheus grounded and became a total wreck with the loss of 190 lives. Most of the bodies were buried where they were washed ashore but </text:span><text:soft-page-break/><text:span text:style-name="T3">many of the officers were taken up to Auckland. One, the chaplain, was -</text:span><text:span text:style-name="T13">buried at Qnctu.~qa</text:span></text:p>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section19">
+    <text:p text:style-name="P68" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section20">
+    <text:p text:style-name="P69" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section21">
+    <text:p text:style-name="P79" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P79" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P79" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">buried at Onchunga.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P54" loext:marker-style-name="T3"><text:span text:style-name="T3">I rode back to Auckland along the road I had come, after having some refreshment at the Railway Hotel. A man there was talking to our skipper about game. It would appear that pheasants have multiplied so as to stock the country, but partridges not so well. Grouse have done well in some parts, as also have hares. Rabbits everywhere. There are some deer</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">which have done well and turkeys have become wild. The pheasants are a cross between English and Chinese, the Chinese cocks having exterminated the English ditto and taken possession of the hens. The gentleman, who was a well informed fellow, told us among other things that the sea from the west approached that from the east to within 500 yards at one part.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">20th. Sunday. My messmate has gone out to an old schoolfellow’s, who has a stock farm 18 miles out. I went ashore in the afternoon and strolled out and through a part of Auckland called Newton. For miles around the country is covered with little houses, each built on its own small piece of ground. I saw Auckland Park which, when various clumps of trees planted in it grow large, will be a noble one. Went to Roman Catholic cathedral in evening; a small one, quoir weak, but the building well filled. There is a Roman Catholic ~iishop of Auckland but his flock would not appear to be very large. The priest who delivered the sermon was a Frenchman with an awfully strong accent. He would call himself a Fronchmahn, I guess. ,</text:span><text:span text:style-name="T21">7</text:span><text:span text:style-name="T3">I~e was somewhat difficult to follow at first but one soon got used to him.</text:span></text:p>
+    <text:p text:style-name="P90" loext:marker-style-name="T3"><text:span text:style-name="T3">q<text:tab/>21st.<text:tab/>On board all day.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P40" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P60" loext:marker-style-name="T3"><text:span text:style-name="T3">22nd.<text:tab/>Went ashore at midday. Walked through Parnell, the suburb lying to the right of the town (facing the harbour). Pleasant houses everywhere, the small as well placed’ and pretty as the large, none, or none hardly, dirty or untidy.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P61" loext:marker-style-name="T3"><text:span text:style-name="T3">Found my way to a little church, on a hillside overlooking the harbour, standing in a little churchyard~ One of the graves contained the body of a man who landed at Ken—Ken, Bay of Islands, in 1818 so he was one of the </text:span><text:span text:style-name="T13">very first settlorn. 23rd—~--</text:span><text:span text:style-name="T3">- ‘</text:span><text:span text:style-name="T13">Went in thc evening</text:span><text:span text:style-name="T3"> to the </text:span><text:span text:style-name="T13">Choral Hall </text:span><text:span text:style-name="T17">a-nd </text:span><text:span text:style-name="T13">heard</text:span></text:p>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section22">
+    <text:p text:style-name="P70" loext:marker-style-name="T1"><text:soft-page-break/></text:p>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section23">
+    <text:p text:style-name="P71" loext:marker-style-name="T1"/>
+   </text:section>
+   <text:section text:style-name="Sect1" text:name="Section24">
+    <text:p text:style-name="P80" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P80" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P80" loext:marker-style-name="T1"/>
+    <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">very first settlers.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P62" loext:marker-style-name="T3"><text:span text:style-name="T3">23rd.<text:tab/>Went in the evening to the Choral Hall and heard the Choral Society of Auckland perform the Messiah. There were about 160 voices, and 30 instrumentalists, and it was grand. The choruses were magnificent. So far as I know anything of the colonies, they are more enthusiastically musical than England. Music everywhere in private and public too. There are no fine bands though, not even Sydney possesses anything like a repectable brass band.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P37" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">24th. Ashore for a stroll in the afternoon.</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P63" loext:marker-style-name="T3"><text:span text:style-name="T3">25th. Christmas day.<text:tab/>Alone all day, my messmates and nearly everyone else ashore. Read Victor Hugo’s ‘Les Miserables’. 26th. Went out to Ellerslie, a district or parish or something, about 5 miles from town, to see some horse racing there. Went by rail. The railway is only a 3 ft. 6 in. guage, the carriage saloon, and the trains run very smoothly. There were a good many persons on the course, all quiet, and no professional betting men. There were several gambling tables, principally colours and a revolving index and the odds were always from 4 to 5 to 1 in favour of the owner. In the evening heard a Miss Christian sing at a concert, ‘The beating of</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P38" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P91" loext:marker-style-name="T3"><text:span text:style-name="T8">,~‘ </text:span><text:span text:style-name="T3">my~own heart’ beautifully.</text:span></text:p>
+    <text:p text:style-name="P41" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P64" loext:marker-style-name="T3"><text:span text:style-name="T3">27th. Sunday.<text:tab/>Ought to be entered in red. Went ashore in the morning with my messmate to go out to Remuera to dinner to an old schoolmate of his who is a merchant here and David</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">B. Cruikshank by name. His brother, William C., was to drive us out so we went to his whare first. There we found 4 other men, Scotchmen all, and the heartiest, friendliest set I ever met. All the national prejudices rubbed out of them, and in fact, if they are fair specimens of the travelled</text:span><text:span text:style-name="T3"/></text:p>
+    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
+    <text:p text:style-name="P59" loext:marker-style-name="T3"><text:span text:style-name="T11">(\<text:tab/></text:span><text:span text:style-name="T3">Scot, he will always have my respect from this day. William Cruikshank himself is a glorious character, with an inexhaustible fund of talk, and I may say humour. He r ~n away from home at 9 years of age, </text:span><text:span text:style-name="T13">taking a younger sister with him</text:span><text:span text:style-name="T3">, but they did not get far. At 14 he was shipped for a voyage to the Pacific, deserted at Valparaiso, and .</text:span><text:span text:style-name="T13">~inc~ then has b~n goodn@ss knows what, sailor, </text:span><text:span text:style-name="T18">digger </text:span><text:span text:style-name="T13">(California)</text:span><text:span text:style-name="T3">,</text:span></text:p>
+   </text:section>
+  </office:text>
+ </office:body>
+</office:document>
